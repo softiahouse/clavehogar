@@ -4,6 +4,7 @@ import QuienesSomos from "./components/QuienesSomos";
 import Servicios from "./components/Servicios";
 import Paquetes from "./components/Paquetes";
 import Testimonios from "./components/Testimonios";
+import LeadForm from "./components/LeadForm";
 import PorQueElegirnos from "./components/PorQueElegirnos";
 import Contacto from "./components/Contacto";
 import Footer from "./components/Footer";
@@ -19,6 +20,7 @@ export default function Home() {
         <Servicios />
         <Paquetes />
         <Testimonios />
+        <LeadForm />
         <PorQueElegirnos />
         <Contacto />
       </main>
