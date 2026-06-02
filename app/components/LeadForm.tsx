@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 
 const servicios = [
@@ -17,6 +18,7 @@ const servicios = [
 type Estado = "idle" | "loading" | "success" | "error";
 
 export default function LeadForm() {
+  const router = useRouter();
   const [estado, setEstado] = useState<Estado>("idle");
   const [form, setForm] = useState({
     nome: "",
@@ -46,8 +48,7 @@ export default function LeadForm() {
       });
 
       if (res.ok) {
-        setEstado("success");
-        setForm({ nome: "", email: "", telefone: "", servico: "", mensagem: "" });
+        router.push("/gracias");
       } else {
         setEstado("error");
       }
