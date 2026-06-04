@@ -1,8 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "softiahouse@gmail.com";
 
 export async function POST(req: NextRequest) {
@@ -17,6 +15,12 @@ export async function POST(req: NextRequest) {
       );
     }
 
+    if (!process.env.RESEND_API_KEY) {
+      console.warn("RESEND_API_KEY not set — lead logged only:", body);
+      return NextResponse.json({ success: true });
+    }
+
+    const resend = new Resend(process.env.RESEND_API_KEY);
     const { error } = await resend.emails.send({
       from: "ClaveHogar Leads <leads@clavehogar.es>",
       to: [NOTIFY_EMAIL],
