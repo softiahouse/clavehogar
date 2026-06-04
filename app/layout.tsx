@@ -51,6 +51,36 @@ export default function RootLayout({
             src="https://www.facebook.com/tr?id=1655010159301538&ev=PageView&noscript=1"
           />
         </noscript>
+        {/* Schema.org LocalBusiness */}
+        <Script id="schema-local-business" type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "ClaveHogar",
+          "description": "Servicios integrales para propietarios en Torrevieja: limpieza profesional, gestión de Airbnb, lavandería, handyman y check-in/check-out.",
+          "url": "https://clavehogar.es",
+          "telephone": "+34693976311",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Las Tórtolas, Urbanización Sunlake, Casa 54",
+            "addressLocality": "Torrevieja",
+            "addressRegion": "Alicante",
+            "postalCode": "03184",
+            "addressCountry": "ES"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 37.9838,
+            "longitude": -0.6830
+          },
+          "openingHoursSpecification": [
+            {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "08:00", "closes": "20:00"},
+            {"@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "14:00"}
+          ],
+          "sameAs": ["https://www.instagram.com/clavehogar"],
+          "priceRange": "€€",
+          "areaServed": "Torrevieja, Alicante, Costa Blanca",
+          "serviceType": ["Limpieza de apartamentos", "Gestión Airbnb", "Lavandería", "Handyman", "Check-in Check-out"]
+        })}} />
       </head>
       <body className={inter.className}>{children}</body>
     </html>

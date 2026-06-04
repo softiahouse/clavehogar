@@ -14,7 +14,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-slate-400 text-sm">
-              Torrevieja, Alicante — España
+              C/ Las Tórtolas, Urb. Sunlake, Casa 54<br />03184 Torrevieja, Alicante — España
             </p>
             <p className="text-slate-500 text-xs mt-1">
               © 2026 ClaveHogar. Todos los derechos reservados.
