@@ -50,11 +50,9 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 pt-6 border-t border-slate-800 text-center">
-          <p className="text-slate-500 text-sm">
-            Hecho con ❤️ para propietarios tranquilos</p>
-            <a href="/blog" className="text-amber-400 hover:text-amber-300 text-sm font-medium transition-colors">📝 Blog</a>
-          </p>
+        <div className="mt-8 pt-6 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
+          <p className="text-slate-500 text-sm">Hecho con ❤️ para propietarios tranquilos</p>
+          <a href="/blog" className="text-amber-400 hover:text-amber-300 text-sm font-medium transition-colors">📝 Blog</a>
         </div>
       </div>
     </footer>
