@@ -17,7 +17,7 @@ export default function Footer() {
               Torrevieja, Alicante — España
             </p>
             <p className="text-slate-500 text-xs mt-1">
-              © 2025 ClaveHogar. Todos los derechos reservados.
+              © 2026 ClaveHogar. Todos los derechos reservados.
             </p>
           </div>
 
@@ -52,7 +52,8 @@ export default function Footer() {
 
         <div className="mt-8 pt-6 border-t border-slate-800 text-center">
           <p className="text-slate-500 text-sm">
-            Hecho con ❤️ para propietarios tranquilos
+            Hecho con ❤️ para propietarios tranquilos</p>
+            <a href="/blog" className="text-amber-400 hover:text-amber-300 text-sm font-medium transition-colors">📝 Blog</a>
           </p>
         </div>
       </div>

@@ -17,6 +17,7 @@ export default function Navbar() {
     { href: "#paquetes", label: "Paquetes" },
     { href: "#testimonios", label: "Opiniones" },
     { href: "#contacto", label: "Contacto" },
+    { href: "/blog", label: "Blog" },
   ];
 
   return (

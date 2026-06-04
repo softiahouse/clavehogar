@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Servicios integrales para propietarios y viajeros en Torrevieja. Limpieza, gestión de alquiler vacacional, lavandería, handyman y más.",
   keywords:
-    "Torrevieja, limpieza apartamentos, gestión Airbnb, handyman, alquiler vacacional, Alicante",
+    "Torrevieja, limpieza apartamentos, gestión Airbnb, handyman, alquiler vacacional, Alicante, Costa Blanca, mantenimiento hogar, lavandería, check-in check-out",
   authors: [{ name: "ClaveHogar" }],
   openGraph: {
     title: "ClaveHogar | Servicios del Hogar en Torrevieja",
