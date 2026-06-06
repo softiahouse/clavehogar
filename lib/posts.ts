@@ -85,6 +85,91 @@ export const posts: Post[] = [
 
 <p><strong>¿Tienes un piso en Torrevieja y quieres saber cómo podemos ayudarte?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34693976311"><strong>+34 693 976 311</strong></a> y te explicamos sin compromiso qué podemos hacer por ti.</p>`,
   },
+  {
+    slug: "limpieza-profesional-entre-huespedes-torrevieja",
+    title: "Limpieza profesional entre huéspedes: el secreto de los mejores anfitriones de Torrevieja",
+    excerpt: "La limpieza entre rotaciones es lo que separa a un anfitrión de 5 estrellas de uno mediocre. Descubre por qué y cómo hacerla bien en Torrevieja.",
+    category: "Limpieza Profesional",
+    emoji: "🧹",
+    date: "6 de junio de 2026",
+    readTime: 5,
+    body: `<p>Si hay algo que diferencia a un anfitrión de 5 estrellas de uno de 3, no son las fotos del anuncio ni el precio por noche. Es lo que ocurre en las horas que separan la salida de un huésped y la llegada del siguiente. <strong>Esa ventana de tiempo — a veces de solo 4 horas — define la reputación de tu piso en Torrevieja</strong>.</p>
+
+<p>En un destino turístico como la Costa Blanca, donde la rotación en verano puede ser diaria, la limpieza profesional entre huéspedes no es un lujo: es una necesidad operativa. Y los anfitriones que lo entienden son los que llenan el calendario todo el año.</p>
+
+<h2>Por qué la limpieza entre rotaciones es crítica en Torrevieja</h2>
+
+<p>Torrevieja tiene unas características que hacen que la limpieza sea especialmente importante:</p>
+
+<ul>
+  <li><strong>Alta rotación en temporada alta</strong> — en julio y agosto muchos pisos cambian de huéspedes cada 2 o 3 días</li>
+  <li><strong>Humedad y salitre</strong> — la cercanía al mar acelera la acumulación de polvo y la sensación de «no estar limpio»</li>
+  <li><strong>Huéspedes internacionales</strong> — vienen de Alemania, Países Bajos, Reino Unido, Francia... culturas distintas con expectativas distintas, pero todas altas en limpieza</li>
+  <li><strong>Check-outs tempranos y check-ins tardíos</strong> — la ventana útil para limpiar puede ser tan estrecha como de 11:00 a 15:00</li>
+</ul>
+
+<blockquote>«En Airbnb, la limpieza es el factor número 1 en las reseñas. Un piso impecable perdona una ubicación regular. Un piso sucio arruina la mejor ubicación de Torrevieja.»</blockquote>
+
+<h2>¿Qué incluye una limpieza profesional entre huéspedes?</h2>
+
+<p>No es lo mismo una limpieza de mantenimiento semanal que una limpieza entre rotaciones para alquiler vacacional. En ClaveHogar trabajamos con un protocolo específico que va mucho más allá de pasar un trapo y hacer las camas:</p>
+
+<h3>1. Limpieza profunda de todas las superficies</h3>
+<p>Cada rincón se revisa: encimeras, mesas, estanterías, marcos de cuadros, interruptores, pomos de puertas. <strong>Los puntos de contacto reciben atención especial</strong> — son los que más bacterias acumulan y también los que los huéspedes notan al llegar.</p>
+
+<h3>2. Cocina y baños a fondo</h3>
+<p>La cocina debe estar impecable: nevera vacía y limpia por dentro, vitrocerámica sin restos de grasa, microondas libre de salpicaduras, fregadero seco y reluciente. Los baños reciben desinfección profesional con productos específicos para eliminar cal y moho —algo especialmente importante en una zona costera como Torrevieja.</p>
+
+<h3>3. Cambio completo de ropa de cama y toallas</h3>
+<p>Cada rotación lleva consigo un juego completo de sábanas y toallas recién lavadas y planchadas. <strong>No se reutilizan, no se ventilan y se doblan</strong>. Un huésped detecta al instante si las sábanas están frescas o si llevan días sin cambiarse.</p>
+
+<h3>4. Aspirado y fregado de suelos</h3>
+<p>Todas las habitaciones se aspiran, incluyendo debajo de las camas y los muebles. Los suelos se friegan con productos adecuados para cada superficie (mármol, gres, parquet). En apartamentos con terraza, también se barre y friega el exterior.</p>
+
+<h3>5. Revisión de amenities y reposición</h3>
+<p>Se verifica que no falte nada: gel de baño, champú, papel higiénico, jabón de manos, café, azúcar, botella de agua de bienvenida. Estos pequeños detalles <strong>son los que generan reseñas de 5 estrellas</strong>.</p>
+
+<h3>6. Control de calidad final</h3>
+<p>Antes de cerrar la puerta, se hace una revisión visual completa. ¿Algo fuera de lugar? ¿Alguna lámpara que no enciende? ¿Persianas que funcionan mal? Se reporta inmediatamente para que el equipo de handyman pueda actuar antes de que llegue el siguiente huésped.</p>
+
+<h2>¿Cuánto tiempo lleva una limpieza entre rotaciones?</h2>
+
+<p>Depende del tamaño del piso y del estado en que lo dejen los huéspedes. En nuestra experiencia:</p>
+
+<ul>
+  <li><strong>Estudio o 1 dormitorio:</strong> 1,5 - 2 horas</li>
+  <li><strong>2 dormitorios:</strong> 2 - 3 horas</li>
+  <li><strong>3 dormitorios o más:</strong> 3 - 4 horas</li>
+</ul>
+
+<p>Si trabajas con un equipo profesional, estos tiempos se cumplen de forma consistente y coordinada. Si lo haces tú mismo o con alguien sin experiencia, es fácil que los tiempos se dupliquen y acabes retrasando el check-in del siguiente huésped — <strong>y eso son reseñas negativas seguras</strong>.</p>
+
+<h2>Los errores más comunes al limpiar entre huéspedes</h2>
+
+<p>Basados en cientos de limpiezas en Torrevieja, estos son los fallos que más repiten los propietarios que intentan hacerlo por su cuenta:</p>
+
+<ul>
+  <li><strong>Usar productos domésticos genéricos</strong> que no desinfectan realmente ni eliminan la cal del agua dura de Torrevieja</li>
+  <li><strong>Olvidar rincones</strong> como detrás de la puerta del baño, los rodapiés o las lámparas de techo</li>
+  <li><strong>No ventilar</strong> después de limpiar — el olor a humedad y productos químicos no da buena primera impresión</li>
+  <li><strong>Apresurarse</strong> y dejar detalles como pelos en el desagüe o manchas en los espejos</li>
+  <li><strong>No reportar averías</strong> — si algo está roto y el siguiente huésped lo descubre, la culpa es tuya aunque tú no lo hayas roto</li>
+</ul>
+
+<h2>¿Vale la pena contratar un servicio profesional?</h2>
+
+<p>Hagamos números rápidos. Un servicio de limpieza profesional entre rotaciones cuesta entre 30 y 60 € por visita, dependiendo del tamaño del piso. Eso significa que por cada reserva, tu margen se reduce en ese importe.</p>
+
+<p>Ahora ponlo en perspectiva: <strong>una reseña de 4 estrellas en lugar de 5 puede reducir tus reservas futuras entre un 10% y un 30%</strong>. Una sola reseña negativa por limpieza puede costarte cientos o miles de euros en reservas perdidas a lo largo del año. La limpieza profesional <em>se paga sola y con creces</em>.</p>
+
+<h2>ClaveHogar: tu equipo de limpieza en Torrevieja</h2>
+
+<p>En <strong>ClaveHogar</strong> sabemos lo que necesita un piso vacacional en Torrevieja para brillar. Nuestro equipo de limpieza profesional está entrenado específicamente para rotaciones de alquiler vacacional, conozco cada rincón de la ciudad y trabajamos con productos profesionales que respetan el medio ambiente y dejan los pisos impecables.</p>
+
+<p>Además, coordinamos la limpieza con el resto de servicios: lavandería, handyman y check-in, para que tú no tengas que preocuparte de nada. <strong>Tu piso funciona, tú descansas</strong>.</p>
+
+<p>¿Quieres probar? <strong>Escríbenos por WhatsApp al <a href="https://wa.me/34693976311"><strong>+34 693 976 311</strong></a></strong> y te hacemos un presupuesto sin compromiso para tu piso en Torrevieja.</p>`,
+  },
 ];
 
 export function getAllPosts(): Post[] {
