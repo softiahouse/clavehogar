@@ -170,6 +170,118 @@ export const posts: Post[] = [
 
 <p>¿Quieres probar? <strong>Escríbenos por WhatsApp al <a href="https://wa.me/34693976311"><strong>+34 693 976 311</strong></a></strong> y te hacemos un presupuesto sin compromiso para tu piso en Torrevieja.</p>`,
   },
+  {
+    slug: "mantenimiento-preventivo-hogar-torrevieja",
+    title: "Mantenimiento preventivo del hogar en Torrevieja: cómo evitar averías y ahorrar dinero",
+    excerpt: "Pequeñas reparaciones que se convierten en emergencias caras. Descubre cómo el mantenimiento preventivo salva tu piso en la Costa Blanca y tu bolsillo.",
+    category: "Handyman",
+    emoji: "🔧",
+    date: "7 de junio de 2026",
+    readTime: 6,
+    body: `<p>Hay una regla no escrita en el mundo del alquiler vacacional: <strong>las averías nunca avisan</strong>. Siempre aparecen en el peor momento — cuando el próximo huésped llega en dos horas, un sábado por la noche, o justo cuando te vas de viaje.</p>
+
+<p>Pero lo cierto es que la mayoría de las emergencias domésticas se pueden evitar. No con suerte, sino con una estrategia sencilla que en otros países llaman <em>home maintenance</em> y que aquí llamamos simplemente <strong>sentido común aplicado con regularidad</strong>: el mantenimiento preventivo.</p>
+
+<p>En Torrevieja, donde el clima es privilegiado pero implacable con los materiales, tener un plan de mantenimiento para tu piso no es un lujo: es la diferencia entre una temporada tranquila y un verano de llamadas de emergencia.</p>
+
+<h2>¿Qué es el mantenimiento preventivo y por qué es clave en la Costa Blanca?</h2>
+
+<p>El mantenimiento preventivo consiste en revisar y poner a punto los sistemas de tu vivienda de forma programada, antes de que surja el problema. No esperas a que el aire acondicionado deje de enfriar en plena ola de agosto: lo revisas en primavera, cuando los técnicos tienen tiempo y las piezas de repuesto están disponibles.</p>
+
+<p>Torrevieja tiene condiciones que hacen del mantenimiento preventivo algo especialmente importante:</p>
+
+<ul>
+  <li><strong>Salitre y humedad marina</strong> — corroe metales, acelera la oxidación de cerraduras, bisagras y electrodomésticos</li>
+  <li><strong>Cal extremadamente dura en el agua</strong> — calcifica grifos, duchas, calentadores y lavadoras en cuestión de meses</li>
+  <li><strong>Veranos de 35 °C</strong> — el aire acondicionado trabaja al límite durante semanas seguidas</li>
+  <li><strong>Rotación constante de huéspedes</strong> — cada persona usa las cosas de forma distinta, y el desgaste se multiplica</li>
+</ul>
+
+<blockquote>«Invertir 200 € al año en mantenimiento preventivo puede ahorrarte 1.500 € en reparaciones de emergencia. Es la mejor relación coste-beneficio que existe para un piso vacacional.»</blockquote>
+
+<h2>Las 7 revisiones clave que tu piso necesita (y cuándo hacerlas)</h2>
+
+<p>Basados en nuestra experiencia con cientos de pisos en Torrevieja, estos son los puntos críticos y su calendario recomendado:</p>
+
+<h3>1. Aire acondicionado — revisión cada primavera</h3>
+<p>Es el sistema más exigido del piso. Los filtros se saturan de polvo y salitre, el gas puede haber perdido presión, y las unidades exteriores acumulan suciedad. <strong>Una revisión en mayo te garantiza que el aparato responderá cuando más lo necesites</strong>. Además, un aire limpio consume hasta un 15 % menos de electricidad.</p>
+
+<h3>2. Descalcificación de grifos y duchas — cada 3 meses</h3>
+<p>El agua de Torrevieja es especialmente dura. En pocas semanas, los aireadores de los grifos se obstruyen reduciendo la presión. Los cabezales de ducha se calcifican y el agua sale en chorros irregulares. <strong>Limpiarlos con vinagre o productos descalcificadores cada trimestre es una operación de 10 minutos que marca una gran diferencia</strong> en la experiencia del huésped.</p>
+
+<h3>3. Calentador de agua — revisión anual</h3>
+<p>El termo eléctrico o la caldera acumulan cal en el interior con el tiempo. Esto reduce la eficiencia, aumenta el consumo eléctrico y, en casos graves, puede provocar fugas o roturas que te dejen sin agua caliente — un drama cuando hay huéspedes en casa. <strong>Un vaciado y revisión anual alarga la vida útil del aparato entre 3 y 5 años</strong>.</p>
+
+<h3>4. Persianas, bisagras y cerraduras — lubricación semestral</h3>
+<p>El salitre marino se come los mecanismos metálicos. Las persianas empiezan a subir despacio, luego a atascarse, y un día no suben más. Una sencilla aplicación de lubricante en spray (WD-40 o similar) dos veces al año mantiene todo funcionando suavemente. <strong>No esperes a que el huésped te mande un vídeo de la persiana atascada un domingo</strong>.</p>
+
+<h3>5. Revisión de fontanería básica — cada 6 meses</h3>
+<p>Mirar debajo de los fregaderos, revisar las juntas de los inodoros, comprobar que no hay goteos en las conexiones de la lavadora y el lavavajillas. Una pequeña fuga que no ves puede causar humedades, mal olor y, con el tiempo, problemas estructurales. <strong>Detectarla a tiempo cuesta 0 €. Reparar un baño con humedad cuesta cientos</strong>.</p>
+
+<h3>6. Puertas y ventanas — sellado anual</h3>
+<p>Las gomas de estanqueidad de puertas y ventanas se resecan con el sol y el salitre. Cuando pierden su función, el aire acondicionado se escapa, el ruido de la calle entra y, en invierno, se cuela el frío. <strong>Cambiar las gomas cada 1-2 años es barato y mejora el confort térmico y acústico del piso de forma notable</strong>.</p>
+
+<h3>7. Electrodomésticos — limpieza y revisión cada 6 meses</h3>
+<p>Lavadora, lavavajillas, horno y nevera. Los filtros se obstruyen, las gomas acumulan moho, los conductos de desagüe se tapan. <strong>Una limpieza profunda semestral de los electrodomésticos evita averías y alarga su vida útil entre un 30 y un 50 %</strong>. Los huéspedes además notan una nevera que huele bien y unos electrodomésticos que funcionan como nuevos.</p>
+
+<h2>¿Y quién hace todo esto cuando el propietario no está?</h2>
+
+<p>Aquí está el dilema de muchos propietarios extranjeros: tienen uno o dos pisos en Torrevieja, pero viven en Madrid, Londres o Berlín. No pueden pasar cada tres meses a revisar los grifos o lubricar las persianas. Y pedirle a un familiar o amigo que lo haga... tiene los días contados.</p>
+
+<p>La solución es tener un servicio de handyman de confianza que haga estas revisiones de forma programada, con un calendario fijo y un reporte al final de cada visita. Así sabes que tu piso está cuidado aunque estés a 2.000 km de distancia.</p>
+
+<h2>Mantenimiento preventivo vs. reparación de emergencia: la cuenta de la vieja</h2>
+
+<p>Hagamos una comparación realista con precios de Torrevieja:</p>
+
+<table style="width:100%; border-collapse: collapse; margin: 1em 0; font-size: 0.9em;">
+  <thead>
+    <tr style="background: #f3f4f6;">
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Concepto</th>
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: right;">Preventivo</th>
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: right;">Emergencia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Revisión aire acondicionado</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">~50 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">150-250 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Desatascar desagüe ducha</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">0 € (limpieza mensual)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">80-120 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Lubricar persianas</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">5 € (spray)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">100-200 € (reparación)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Cambio gomas ventana</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">30-50 € (programado)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">Urgencia no aplica (se sufre)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>En promedio, el mantenimiento preventivo cuesta entre 3 y 5 veces menos que la reparación de emergencia.</strong> Y eso sin contar el coste invisible de una mala reseña en Airbnb por una avería que arruinó la estancia de un huésped.</p>
+
+<h2>¿Y si lo dejo pasar un año? ¿Qué puede pasar?</h2>
+
+<p>Es la pregunta del millón. La respuesta corta: probablemente nada grave. Pero el riesgo acumulado crece. El aire que no revisaste este año puede fallar el próximo verano. La cal que no limpiaste este trimestre será el doble de difícil de quitar el que viene. La goma de la ventana que no cambiaste hoy será la corriente de aire que el huésped señalará en su reseña mañana.</p>
+
+<p>El mantenimiento preventivo no es para evitar el 100 % de las averías — eso es imposible. Es para <strong>reducir drásticamente la probabilidad de que ocurran en el peor momento posible</strong>.</p>
+
+<h2>ClaveHogar: tu servicio de mantenimiento en Torrevieja</h2>
+
+<p>En <strong>ClaveHogar</strong> ofrecemos un servicio integral de mantenimiento preventivo para pisos vacacionales en Torrevieja y alrededores. Nuestro equipo de handyman realiza revisiones periódicas con un checklist completo, te envía un reporte detallado después de cada visita, y coordina las reparaciones necesarias antes de que se conviertan en emergencias.</p>
+
+<p>Trabajamos con propietarios que viven en Torrevieja y también con los que gestionan sus pisos desde el extranjero. <strong>Tú no tienes que estar aquí para que tu piso esté cuidado.</strong></p>
+
+<p>¿Quieres saber más? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo funciona nuestro servicio de mantenimiento preventivo sin compromiso.</p>`
+  },
 ];
 
 export function getAllPosts(): Post[] {
