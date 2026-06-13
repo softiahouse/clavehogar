@@ -11,6 +11,100 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "guia-propietarios-extranjeros-costa-blanca",
+    title: "Guía completa para propietarios extranjeros en Costa Blanca: todo lo que necesitas saber",
+    excerpt: "Comprar y gestionar un piso en Torrevieja desde el extranjero es posible. Te contamos los pasos clave, impuestos, obligaciones y cómo alquilarlo bien.",
+    category: "Gestión Vacacional",
+    emoji: "🌍",
+    date: "13 de junio de 2026",
+    readTime: 7,
+    body: `<p>Si estás leyendo esto, probablemente tienes un piso en la Costa Blanca o estás pensando en comprar uno. Y si además vives fuera de España — en Alemania, Reino Unido, Países Bajos, Francia o cualquier otro país — sabes que <strong>gestionar una propiedad a distancia tiene sus propios desafíos</strong>.</p>
+
+<p>Torrevieja es uno de los destinos favoritos de los propietarios extranjeros en Europa. Sol, playas, precios razonables y una comunidad internacional que hace que sentirse en casa sea fácil. Pero <strong>lo que muchos descubren después de la firma es que tener el piso es solo el principio</strong>: llegan los impuestos, las obligaciones legales, el mantenimiento, y la gran pregunta de siempre: ¿quién se ocupa de todo cuando yo no estoy?</p>
+
+<p>En esta guía recorremos punto por punto lo que todo propietario extranjero debería saber para gestionar su piso en la Costa Blanca sin dolor de cabeza.</p>
+
+<h2>1. Comprar una vivienda en España siendo extranjero</h2>
+
+<p>El proceso de compra es más sencillo de lo que parece, pero tiene sus particularidades. Si aún no tienes el piso, esto es lo básico:</p>
+
+<ul>
+  <li><strong>NIE (Número de Identificación de Extranjero)</strong> — lo necesitas sí o sí para cualquier operación. Se tramita en la comisaría de policía o en el consulado español de tu país. Sin NIE no puedes comprar, vender, ni contratar servicios básicos como luz o agua.</li>
+  <li><strong>Cuenta bancaria española</strong> — esencial para pagar recibos (comunidad, IBI, basura) y recibir ingresos del alquiler.</li>
+  <li><strong>Notario y registro</strong> — la compraventa se formaliza ante notario y se inscribe en el Registro de la Propiedad. El notario se encarga de verificar que la vivienda está libre de cargas.</li>
+  <li><strong>Costes asociados</strong> — además del precio de la vivienda, hay que contar con ITP (Impuesto de Transmisiones Patrimoniales, entre un 8-10 % si es segunda mano) o IVA (si es obra nueva), más notaría, registro y gestoría. En total, <strong>entre un 10 % y un 13 % extra sobre el precio de compra</strong>.</li>
+</ul>
+
+<blockquote>«Muchos propietarios extranjeros se sorprenden con los costes adicionales de comprar en España. Un presupuesto realista incluye siempre ese 10-13 % extra sobre el precio de la vivienda.»</blockquote>
+
+<h2>2. Impuestos y obligaciones anuales</h2>
+
+<p>Una vez que eres propietario, entran en juego las obligaciones fiscales. Esto varía según uses o no la vivienda para alquiler vacacional:</p>
+
+<h3>Si alquilas tu piso en Airbnb o Booking</h3>
+<ul>
+  <li><strong>IRNR (Impuesto sobre la Renta de No Residentes)</strong> — todos los propietarios extranjeros deben presentarlo, tanto si alquilan como si no. La base imponible se calcula sobre el valor catastral de la vivienda. Si alquilas, tributas por los ingresos reales. El tipo impositivo es del 19 % para residentes en la UE, y del 24 % para no residentes de fuera de la UE.</li>
+  <li><strong>IVA</strong> — en alquiler vacacional no se aplica IVA, pero sí hay que darse de alta en el censo de empresarios si alquilas de forma habitual.</li>
+  <li><strong>Comunicación a la Generalitat Valenciana</strong> — desde 2024, los propietarios deben registrar el piso en el Registro de Turismo de la Comunidad Valenciana y comunicar los datos de los huéspedes a las autoridades. <strong>No hacerlo puede conllevar multas de hasta 30.000 €</strong>.</li>
+</ul>
+
+<h3>Si no alquilas (uso propio o vacío)</h3>
+<ul>
+  <li><strong>IBI (Impuesto sobre Bienes Inmuebles)</strong> — lo paga todo propietario, extranjero o nacional. Varía según el valor catastral y el municipio, pero suele rondar los 300-700 € anuales para un piso medio en Torrevieja.</li>
+  <li><strong>Tasa de basuras</strong> — obligatoria, unos 100-200 € al año.</li>
+  <li><strong>IRNR por imputación de rentas</strong> — aunque no alquiles, Hacienda entiende que tu piso genera una renta potencial y te obliga a tributar por un porcentaje del valor catastral. Sí, es tan absurdo como suena, pero es legal y hay que pagarlo.</li>
+</ul>
+
+<h2>3. El gran reto: gestionar la propiedad a distancia</h2>
+
+<p>Aquí es donde muchos propietarios extranjeros empiezan a sudar. <strong>No es solo pagar impuestos; es que el piso tiene vida propia</strong>.</p>
+
+<p>Las cosas que necesitas cubrir desde tu país de residencia o cuando visitas Torrevieja un par de veces al año:</p>
+
+<ul>
+  <li><strong>Limpieza entre huéspedes</strong> — si alquilas, la rotación de limpiezas es constante y necesita coordinación impecable. En temporada alta, un piso en Torrevieja puede tener huéspedes nuevos cada 2 días.</li>
+  <li><strong>Check-in y check-out presencial</strong> — los huéspedes necesitan a alguien que les reciba, les dé las llaves, les explique el funcionamiento del piso y esté disponible si surge cualquier problema.</li>
+  <li><strong>Mantenimiento y reparaciones</strong> — desde una bombilla fundida hasta una avería en el aire acondicionado en pleno agosto. Necesitas un handyman de confianza que pueda ir al piso en cuestión de horas.</li>
+  <li><strong>Lavandería profesional</strong> — sábanas, toallas, ropa de cama. Cada rotación exige un juego limpio y planchado. No puedes depender de la lavadora de casa ni de horarios imposibles.</li>
+  <li><strong>Gestión de incidencias</strong> — un vecino que se queja de ruido, una fuga de agua en el piso de arriba, un huésped que pierde las llaves. Alguien tiene que estar disponible para resolverlo.</li>
+  <li><strong>Pago de recibos</strong> — luz, agua, comunidad, IBI. Si no pagas a tiempo, te cortan los suministros o te embargan la cuenta.</li>
+</ul>
+
+<blockquote>«Gestionar un piso en Torrevieja desde el extranjero no es imposible, pero requiere tener un equipo local de confianza. Sin él, cada pequeña incidencia se convierte en un problema grande.»</blockquote>
+
+<h2>4. Opciones para propietarios extranjeros</h2>
+
+<p>Básicamente tienes tres caminos:</p>
+
+<h3>Opción A: Hazlo todo tú mismo</h3>
+<p>Viajas a Torrevieja cada vez que hay una incidencia, coordinas limpiezas por WhatsApp con conocidos, pagas recibos manualmente desde tu banco online. <strong>Funciona si tienes mucha paciencia, pocas reservas y no te importa recibir llamadas a las 2 de la madrugada</strong>. Para la mayoría de propietarios, esta opción se vuelve insostenible en cuanto el piso empieza a rodar bien.</p>
+
+<h3>Opción B: Gestión parcial con profesionales locales</h3>
+<p>Contratas servicios sueltos: una empresa de limpieza para las rotaciones, un electricista de confianza para las reparaciones, y un gestor para los impuestos. Tú coordinas todo desde tu país. <strong>Funciona bastante bien si tienes un puñado de contactos fiables y no te importa hacer de project manager de tu propio piso</strong>.</p>
+
+<h3>Opción C: Delega todo en un servicio integral</h3>
+<p>Una empresa local se encarga de todo: limpieza, lavandería, handyman, check-in/check-out, gestión de incidencias y, si quieres, también de la comunicación con los huéspedes. <strong>Tú solo cobras y ves cómo llegan las reseñas positivas</strong>. Esta es la opción que eligen los propietarios que quieren rentabilidad sin dolores de cabeza.</p>
+
+<h2>5. Por qué Torrevieja es un destino ideal para propietarios extranjeros</h2>
+
+<p>Torrevieja tiene ventajas competitivas que pocos destinos pueden igualar:</p>
+
+<ul>
+  <li><strong>Conexión aérea excelente</strong> — el aeropuerto de Alicante-Elche está a 40 minutos, con vuelos directos a más de 50 ciudades europeas. También está Murcia-Corvera a 45 minutos y Valencia a 1 hora y media.</li>
+  <li><strong>Comunidad internacional grande</strong> — no estarás solo. Hay asociaciones de alemanes, británicos, neerlandeses, franceses y belgas. Colegios internacionales, supermercados con productos de importación y servicios adaptados a extranjeros.</li>
+  <li><strong>Clima estable todo el año</strong> — más de 300 días de sol al año. Esto significa que tu piso se puede alquilar 12 meses, no solo en verano. La demanda de alquiler vacacional se mantiene alta incluso en invierno, sobre todo de jubilados europeos que pasan los meses fríos en la Costa Blanca.</li>
+  <li><strong>Coste de vida razonable</strong> — comparado con otras zonas costeras de España (Costa del Sol, Baleares, Costa Brava), Torrevieja sigue siendo asequible tanto para comprar como para mantener un piso.</li>
+</ul>
+
+<h2>ClaveHogar: tu equipo de confianza en Torrevieja</h2>
+
+<p>En <strong>ClaveHogar</strong> trabajamos cada día con propietarios que viven en Alemania, Reino Unido, Países Bajos, Francia, Bélgica y muchos otros países. Sabemos lo que necesitas porque lo hemos visto cientos de veces: <strong>un equipo local que cuide de tu piso como si fuera suyo</strong>.</p>
+
+<p>Ofrecemos un servicio integral que cubre limpieza profesional entre huéspedes, lavandería, handyman, coordinación de check-in/check-out y gestión de incidencias. Sin contratos largos, sin sorpresas. Solo trabajo bien hecho para que tu piso funcione sin que tengas que estar pendiente.</p>
+
+<p>¿Tienes un piso en Torrevieja y vives fuera de España? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311"><strong>+34 693 976 311</strong></a></strong> y te contamos cómo podemos ayudarte a gestionarlo sin estrés, estés donde estés.</p>`,
+  },
+  {
     slug: "gestionar-airbnb-torrevieja",
     title: "Cómo gestionar tu piso de Airbnb en Torrevieja sin estrés (y sin perder dinero)",
     excerpt: "Tener un piso en Torrevieja es una oportunidad de oro, pero gestionarlo bien es otro cuento. Te contamos cómo hacerlo sin que te consuma la vida.",
