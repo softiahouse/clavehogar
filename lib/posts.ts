@@ -376,6 +376,137 @@ export const posts: Post[] = [
 
 <p>¿Quieres saber más? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo funciona nuestro servicio de mantenimiento preventivo sin compromiso.</p>`
   },
+  {
+    slug: "lavanderia-apartamentos-vacacionales-torrevieja",
+    title: "Lavandería para apartamentos vacacionales: por qué es clave para el éxito de tu alquiler",
+    excerpt: "Las sábanas y toallas son lo primero que toca un huésped al llegar. Descubre cómo un servicio de lavandería profesional marca la diferencia en Torrevieja.",
+    category: "Limpieza Profesional",
+    emoji: "👕",
+    date: "21 de junio de 2026",
+    readTime: 6,
+    body: `<p>Hay detalles que un huésped nota en cuanto cruza la puerta. La luz, el olor, la temperatura. Pero hay uno que <strong>literalmente toca antes de sentirse en casa</strong>: la ropa de cama y las toallas.</p>
+
+<p>En un apartamento vacacional en Torrevieja, la lavandería no es un servicio secundario. Es una pieza central de la experiencia del huésped, un factor determinante en las reseñas y, si no se gestiona bien, una fuente constante de estrés para el propietario. En este artículo te contamos por qué y cómo hacerlo bien.</p>
+
+<h2>El problema invisible de la lavandería en alquiler vacacional</h2>
+
+<p>Cuando alquilas tu piso por noches, la lavandería no es como en casa. No lavas cuando te apetece ni cuando se acumula el cesto. <strong>Necesitas que todo esté listo en ventanas de tiempo muy ajustadas</strong> — a veces de apenas 2 o 3 horas entre el check-out de un huésped y el check-in del siguiente.</p>
+
+<p>Los números son esclarecedores: un piso en Torrevieja con ocupación media-alta puede generar entre 6 y 12 cambios completos de ropa de cama y toallas al mes. En temporada alta, esa cifra se duplica o triplica. Hablamos de <strong>hasta 30 juegos de sábanas y 60 toallas al mes</strong> para un solo apartamento.</p>
+
+<blockquote>«El 90 % de los huéspedes considera que la limpieza y el estado de la ropa de cama son el factor más importante en su valoración final. Una sábana con una mancha puede anular 20 fotos espectaculares del anuncio.»</blockquote>
+
+<h2>Lo que los huéspedes notan (y lo que no perdonan)</h2>
+
+<p>La experiencia del huésped con la ropa empieza incluso antes de meter la llave en la cerradura. Estos son los puntos críticos:</p>
+
+<h3>1. Olor a fresco y limpio</h3>
+<p>Es la primera señal. Cuando un huésped abre la puerta del dormitorio y huele las sábanas limpias, ya ha ganado medio check-in. Si huele a humedad, a cerrado o —peor aún— a detergente barato, la primera impresión está arruinada. <strong>Un lavado profesional con productos de calidad deja un aroma sutil y agradable</strong> que los huéspedes asocian con limpieza y cuidado.</p>
+
+<h3>2. Textura y suavidad</h3>
+<p>Las toallas ásperas o las sábanas que han perdido la suavidad por exceso de lavado son una de las quejas más comunes en las reseñas de Airbnb. <strong>No es cuestión de gastar más en ropa, sino de cuidarla con los productos y procesos adecuados</strong>. Un servicio de lavandería profesional utiliza suavizantes y programas de lavado que alargan la vida del textil y mantienen su tacto agradable.</p>
+
+<h3>3. Planchado y presentación</h3>
+<p>Una sábana bien planchada y doblada con esmero transmite profesionalidad. Parece un detalle menor, pero los huéspedes internacionales —alemanes, neerlandeses, británicos— son especialmente sensibles a estos cuidados. <strong>La diferencia entre un juego de cama arrugado y uno planchado es una estrella en la reseña</strong>.</p>
+
+<h3>4. Cantidad suficiente</h3>
+<p>Nada más incómodo que un huésped que tiene que pedir más toallas porque no hay suficientes para todos, o que encuentra una sola toalla para dos personas. <strong>La regla de oro: dos juegos de toallas por huésped (una de baño y una de mano) más una adicional</strong>. Si hay piscina o playa cerca, añade toallas específicas para la playa.</p>
+
+<h2>Lavar por tu cuenta vs. servicio profesional</h2>
+
+<p>Muchos propietarios empiezan lavando la ropa ellos mismos o pidiendo a la persona que limpia que lo haga. Y funciona… hasta que deja de funcionar. Aquí tienes una comparación realista:</p>
+
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <thead>
+    <tr style="background-color: #f5f5f5;">
+      <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">Factor</th>
+      <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">Lavandería casera</th>
+      <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">Servicio profesional</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>Tiempo por rotación</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2-4 horas (lavar, secar, planchar, doblar)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Entrega lista en 24-48 h</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>Calidad de lavado</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Variable según producto y atención</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Consistente, con productos profesionales</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>Vida útil del textil</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Menor (ciclos domésticos, detergentes genéricos)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Mayor (procesos industriales controlados)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>Disponibilidad urgente</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Limitada (si la lavadora se estropea, estás perdido)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">24/7 con acuerdos de servicio continuo</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>Coste por rotación</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Bajo en dinero, alto en tiempo</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">15-30 € por juego completo, sin esfuerzo</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>«El tiempo que ahorras con un servicio de lavandería profesional lo puedes invertir en mejorar otras áreas de tu alquiler — o simplemente en no estresarte.»</blockquote>
+
+<h2>El reto específico de Torrevieja</h2>
+
+<p>Torrevieja tiene condiciones que hacen que la lavandería profesional sea especialmente recomendable:</p>
+
+<ul>
+  <li><strong>Agua dura y calcárea</strong> — los ciclos domésticos con agua de la red desgastan las fibras más rápido y dejan residuos en la ropa</li>
+  <li><strong>Humedad ambiental alta</strong> — secar al aire libre es lento y puede dejar olor a humedad en las toallas</li>
+  <li><strong>Rotaciones rápidas en verano</strong> — en julio y agosto no hay margen para esperar a que se seque una sábana</li>
+  <li><strong>Huéspedes internacionales con expectativas altas</strong> — vienen de países donde los estándares de lavandería son muy exigentes</li>
+  <li><strong>Playas y piscinas</strong> — los huéspedes usan más toallas de lo normal, y el salitre y la arena las desgastan más rápido</li>
+</ul>
+
+<h2>¿Cuántos juegos de ropa necesita tu piso?</h2>
+
+<p>Esta es una de las preguntas que más nos hacen los propietarios. La respuesta depende de la rotación, pero aquí tienes una regla general:</p>
+
+<ul>
+  <li><strong>Rotación semanal (típica en invierno):</strong> 3 juegos de sábanas y 6 juegos de toallas por cama</li>
+  <li><strong>Rotación cada 2-3 días (típica en verano):</strong> 5-7 juegos de sábanas y 10-14 juegos de toallas por cama</li>
+  <li><strong>Rotación diaria (hotelera):</strong> 10+ juegos de sábanas y 20+ juegos de toallas por cama</li>
+</ul>
+
+<p>Tener stock suficiente es clave para no depender de que la lavandería devuelva la ropa antes de la siguiente limpieza. <strong>Con un servicio profesional externalizado y un stock bien dimensionado, nunca te quedas sin ropa limpia</strong>.</p>
+
+<h2>Cómo elegir un servicio de lavandería en Torrevieja</h2>
+
+<p>Si decides delegar, no todos los servicios de lavandería son iguales. Esto es lo que debes buscar:</p>
+
+<ul>
+  <li><strong>Recogida y entrega a domicilio</strong> — en un alquiler vacacional, cada minuto cuenta. Que vayan a buscar la ropa sucia y devuelvan la limpia al piso te ahorra desplazamientos.</li>
+  <li><strong>Productos hipoalergénicos</strong> — cada vez más huéspedes tienen alergias o piel sensible. Un detergente neutro y sin perfumes fuertes evita reacciones y quejas.</li>
+  <li><strong>Planchado incluido</strong> — no asumas que todas las lavanderías planchan. Pregúntalo antes.</li>
+  <li><strong>Plazos de entrega garantizados</strong> — necesitas saber que si dejas la ropa hoy, la tendrás mañana. Sin excusas.</li>
+  <li><strong>Trato cuidadoso de los textiles</strong> — las sábanas y toallas de calidad se estropean con lavados agresivos. Busca un servicio que use programas suaves y centrifugados controlados.</li>
+</ul>
+
+<h2>ClaveHogar: lavandería profesional para tu piso vacacional</h2>
+
+<p>En <strong>ClaveHogar</strong> entendemos que la ropa de cama y las toallas son mucho más que un detalle logístico: son parte de la experiencia que ofreces a tus huéspedes. Por eso nuestro servicio de lavandería profesional incluye:</p>
+
+<ul>
+  <li>Recogida y entrega en tu piso de Torrevieja</li>
+  <li>Lavado con productos profesionales hipoalergénicos</li>
+  <li>Planchado y doblado cuidadoso de cada prenda</li>
+  <li>Coordinación directa con nuestro equipo de limpieza para que la ropa llegue justo cuando se necesita</li>
+  <li>Stock de emergencia si necesitas juegos extra en temporada alta</li>
+</ul>
+
+<p>Además, si contratas nuestro servicio integral (limpieza + lavandería + handyman + check-in/check-out), la coordinación es automática. <strong>Nosotros nos encargamos de que todo esté listo para cada huésped, tú solo te preocupas de disfrutar de la rentabilidad.</strong></p>
+
+<p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo podemos ayudarte con la lavandería de tu piso en Torrevieja.</p>`
+  },
 ];
 
 export function getAllPosts(): Post[] {
