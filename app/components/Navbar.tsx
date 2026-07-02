@@ -18,6 +18,7 @@ export default function Navbar() {
     { href: "#testimonios", label: "Opiniones" },
     { href: "#contacto", label: "Contacto" },
     { href: "/blog", label: "Blog" },
+    { href: "/parceiros", label: "Socios" },
   ];
 
   return (

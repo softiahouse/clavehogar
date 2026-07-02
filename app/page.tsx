@@ -9,6 +9,7 @@ import PorQueElegirnos from "./components/PorQueElegirnos";
 import Contacto from "./components/Contacto";
 import Footer from "./components/Footer";
 import WhatsAppFAB from "./components/WhatsAppFAB";
+import PWAInstallButton from "./components/PWAInstallButton";
 
 export default function Home() {
   return (
@@ -26,6 +27,7 @@ export default function Home() {
       </main>
       <Footer />
       <WhatsAppFAB />
+      <PWAInstallButton />
     </>
   );
 }

@@ -6,6 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  manifest: "/manifest.json",
   title: "ClaveHogar | Servicios del Hogar en Torrevieja",
   description:
     "Servicios integrales para propietarios y viajeros en Torrevieja. Limpieza, gestión de alquiler vacacional, lavandería, handyman y más.",
@@ -31,6 +32,8 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth">
       <head>
+        <meta name="theme-color" content="#f59e0b" />
+        <link rel="manifest" href="/manifest.json" />
         {/* Meta Pixel */}
         <Script id="meta-pixel" strategy="afterInteractive">
           {`
