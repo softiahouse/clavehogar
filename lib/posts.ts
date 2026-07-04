@@ -507,6 +507,472 @@ export const posts: Post[] = [
 
 <p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo podemos ayudarte con la lavandería de tu piso en Torrevieja.</p>`
   },
+  {
+    slug: "que-hacer-cuando-algo-se-rompe-piso-alquiler-torrevieja",
+    title: "Qué hacer cuando algo se rompe en tu piso de alquiler vacacional en Torrevieja",
+    excerpt: "Averías inesperadas pasan siempre en el peor momento. Descubre cómo tener un plan B para que una fuga, un cortocircuito o una persiana atascada no arruinen la estancia de tus huéspedes en la Costa Blanca.",
+    category: "Handyman",
+    emoji: "🛠️",
+    date: "27 de junio de 2026",
+    readTime: 7,
+    body: `<p>Son las 16:30 de un sábado de julio. El check-in del próximo huésped es a las 17:00 y el equipo de limpieza acaba de terminar. Todo está perfecto. Pero entonces abres el grupo de WhatsApp y ves el mensaje: <em>«Hola, el aire acondicionado del salón no enciende. Tenemos 35 grados aquí dentro. ¿Podéis mirarlo?»</em></p>
+
+<p>Si tienes un piso de alquiler vacacional en Torrevieja, esta escena te resulta familiar. Las averías no avisan, no preguntan y — como si tuvieran un radar — siempre aparecen <strong>en el momento más inoportuno</strong>: justo antes de un check-in, un sábado por la tarde, o cuando tú estás a 2.000 kilómetros de distancia.</p>
+
+<p>La pregunta no es <em>si</em> algo se romperá, sino <em>cuándo</em> y <em>qué harás cuando pase</em>. Tener un plan de respuesta para averías no es pesimismo: es profesionalidad. En este artículo te contamos cómo montar ese plan, qué averías son más frecuentes en Torrevieja y cómo resolverlas sin estrés (y sin malas reseñas).</p>
+
+<h2>Las averías más comunes en pisos vacacionales de Torrevieja</h2>
+
+<p>Cada destino tiene sus puntos débiles. En la Costa Blanca, el clima — que es uno de tus mayores atractivos — también es el origen de la mayoría de las averías. Basados en cientos de incidencias gestionadas, estas son las más frecuentes:</p>
+
+<h3>1. Averías en el aire acondicionado</h3>
+<p>Líder indiscutible del ranking. En los meses de junio a septiembre, el aire acondicionado trabaja a pleno rendimiento durante semanas enteras, y los fallos son habituales: pérdida de gas refrigerante, filtros obstruidos por el polvo y el salitre, condensadores que se sobrecalientan o mandos que dejan de funcionar. <strong>Un aire estropeado en agosto no es una avería menor: es una emergencia que puede arruinar por completo la estancia del huésped</strong>.</p>
+
+<blockquote>«En verano, una avería del aire acondicionado sin resolver en menos de 4 horas es garantía de una reseña de 3 estrellas o menos. Los huéspedes no perdonan pasar calor en sus vacaciones.»</blockquote>
+
+<h3>2. Problemas de fontanería</h3>
+<p>El agua dura y calcárea de Torrevieja pasa factura. Los problemas más habituales incluyen: inodoros que no descargan bien por acumulación de cal en las válvulas, grifos que gotean o pierden presión por obstrucción en los aireadores, desagües de ducha que se atascan con pelo y residuos de jabón, y fugas en las conexiones de lavadoras y lavavajillas. <strong>Un baño que no funciona correctamente es un problema que el huésped va a reportar de inmediato</strong>.</p>
+
+<h3>3. Persianas y toldos atascados</h3>
+<p>Las persianas son el caballo de batalla silencioso del alquiler vacacional. El salitre marino corroe los mecanismos, las cintas se desgastan y las guías se obstruyen con suciedad. En pisos con toldos en la terraza, el viento de Levante puede dañar los brazos articulados o rasgar la lona. <strong>Una persiana que no sube o un toldo que no se recoge no parecen graves, pero para un huésped que quiere dormir sin luz o protegerse del sol, son un fastidio considerable</strong>.</p>
+
+<h3>4. Electrodomésticos: lavadora, nevera, vitrocerámica</h3>
+<p>La lavadora es el electrodoméstico que más sufre en un piso vacacional, por el uso intensivo entre rotaciones. Le sigue la nevera, que puede dejar de enfriar por un fallo del termostato o pérdida de gas, y la vitrocerámica, que acumula suciedad difícil de limpiar y puede presentar rajas o fallos en los mandos. <strong>Una lavadora estropeada en temporada alta puede paralizar la operativa de limpieza entre rotaciones</strong>.</p>
+
+<h3>5. Plomería eléctrica: cortes de luz y electrodomésticos</h3>
+<p>En Torrevieja no son raros los microcortes de luz, sobre todo en verano cuando la red eléctrica está más tensionada. Un cuadro de luces que salta, un diferencial que no rearma, o un enchufe que deja de funcionar son incidencias que los huéspedes reportan con frecuencia. <strong>Si el Wi-Fi depende de un repetidor que se apaga con el microcorte, la queja será doble</strong>.</p>
+
+<h2>El plan de respuesta: qué hacer cuando llega el aviso</h2>
+
+<p>Tener un protocolo claro para las averías marca la diferencia entre una reseña de 4 estrellas (con suerte) y una de 2 estrellas (con razón). Esto es lo que necesitas:</p>
+
+<h3>Paso 1: Clasifica la urgencia</h3>
+<p>No todas las averías requieren la misma respuesta. Establece tres niveles:</p>
+<ul>
+  <li><strong>🔴 Urgente (resolver en &lt;2 horas):</strong> aire acondicionado roto en verano, fuga de agua activa, corte de luz general, puerta o ventana que no cierra con seguridad. Son problemas que afectan directamente a la habitabilidad del piso y requieren intervención inmediata.</li>
+  <li><strong>🟡 Importante (resolver en 4-8 horas):</strong> grifo que gotea, persiana atascada, lavadora que no funciona, Wi-Fi caído. Son problemas molestos que el huésped tolera si se resuelven el mismo día.</li>
+  <li><strong>🟢 Menor (resolver en 24-48 horas):</strong> bombilla fundida, mando que no funciona con pilas nuevas, estante descolgado. Son detalles que no afectan la experiencia central y pueden esperar al día siguiente.</li>
+</ul>
+
+<blockquote>«Lo peor que puedes hacer es tratar todas las averías como igual de urgentes. Te quemas al responder a todo con el mismo nivel de alarma, y acabas sin recursos para las que realmente lo requieren.»</blockquote>
+
+<h3>Paso 2: Ten contactos de confianza (no uno, varios)</h3>
+<p>No basta con tener el número de un electricista o un fontanero. Necesitas una red de al menos 2-3 profesionales por especialidad, porque el primero puede no estar disponible. Los datos que deben estar siempre a mano:</p>
+<ul>
+  <li><strong>Electricista de guardia</strong> — que sepa trabajar con cuadros eléctricos españoles y entienda las particularidades de la red de Torrevieja</li>
+  <li><strong>Fontanero 24h</strong> — para fugas, atascos y calentadores</li>
+  <li><strong>Técnico de aire acondicionado</strong> — con gas refrigerante de repuesto y disponibilidad en fines de semana</li>
+  <li><strong>Cerrajero</strong> — porque perder las llaves o romper una cerradura también pasa</li>
+  <li><strong>Cristalero de urgencia</strong> — una rotura de cristal (ventana, puerta, mesa) necesita solución rápida por seguridad</li>
+</ul>
+
+<h3>Paso 3: Comunica con el huésped</h3>
+<p>La forma en que comunicas la avería es casi tan importante como resolverla. El huésped entiende que las cosas se rompen; lo que no entiende es el silencio. La secuencia ideal:</p>
+<ul>
+  <li><strong>Recepción inmediata:</strong> «Hemos recibido tu aviso. Estamos mirándolo y te damos una respuesta en 10 minutos.» — Esto solo ya calma al huésped.</li>
+  <li><strong>Diagnóstico y plan:</strong> «El técnico puede estar ahí a las 18:00. Mientras tanto, puedes usar el ventilador que está en el armario del pasillo. Sentimos las molestias.»</li>
+  <li><strong>Seguimiento post-reparación:</strong> «Ya está resuelto. El técnico nos confirma que funciona correctamente. Si notas algo raro, dínoslo sin problema. Disfruta de la estancia.»</li>
+</ul>
+
+<h3>Paso 4: Ten un stock de materiales básico</h3>
+<p>Para averías menores, tener un pequeño stock en el piso o cerca de él ahorra horas de espera. Recomendamos:</p>
+<ul>
+  <li>Bombillas de repuesto de todos los tipos que uses</li>
+  <li>Pilas (AA y AAA) para mandos a distancia</li>
+  <li>Silicona para fugas menores y cinta de fontanero (teflón)</li>
+  <li>Fusibles y un par de cables de extensión</li>
+  <li>Lubricante multiusos (WD-40 o similar para persianas y bisagras)</li>
+  <li>Un ventilador de pie de emergencia por si el aire falla antes de que llegue el técnico</li>
+</ul>
+
+<h2>¿Y si estás fuera de España cuando ocurre?</h2>
+
+<p>Aquí está el verdadero desafío para los propietarios extranjeros. Puedes tener los mejores contactos guardados en el móvil, pero si estás en Berlín y son las 23:00 en Torrevieja, tu capacidad de respuesta es limitada. La solución es tener un equipo local que actúe en tu nombre:</p>
+
+<ul>
+  <li><strong>Un servicio de handyman de confianza</strong> que pueda ir al piso en menos de 2 horas, diagnosticar y resolver la mayoría de las averías comunes, y coordinar con especialistas si hace falta.</li>
+  <li><strong>Un interlocutor único para el huésped</strong> — que el huésped tenga un número al que llamar o escribir, y que sepa que va a recibir respuesta en minutos, no en horas.</li>
+  <li><strong>Un reporte post-incidencia</strong> — que te llegue un resumen de lo que pasó, cómo se resolvió y si hace falta hacer un seguimiento o una reparación mayor después de la estancia.</li>
+</ul>
+
+<h2>Lo que cuesta no tener un plan de averías</h2>
+
+<p>Hagamos un cálculo rápido. Una avería del aire acondicionado un sábado de julio, sin resolver durante 24 horas, puede generar:</p>
+
+<ul>
+  <li><strong>Reseña de 2-3 estrellas</strong> por limpieza general (aunque el problema no fuera de limpieza, el huésped lo reflejará en la nota global)</li>
+  <li><strong>Pérdida de reservas futuras</strong> — una mala reseña puede reducir la visibilidad de tu anuncio en Airbnb durante semanas</li>
+  <li><strong>Reembolso parcial o total</strong> si el huésped reclama y Airbnb le da la razón</li>
+  <li><strong>Coste de reparación de urgencia</strong> que siempre es más caro que una revisión programada</li>
+</ul>
+
+<p>En contraste, tener un handyman de guardia con disponibilidad 24/7 puede costarte entre 50 y 100 € por incidencia. <strong>El seguro de hogar también es clave: asegúrate de que tu póliza cubre daños por agua, averías eléctricas y rotura de cristales</strong>, y de que incluye un servicio de urgencias 24h.</p>
+
+<blockquote>«Invertir en un buen seguro de hogar y en un servicio de handyman de confianza es más barato que una sola semana de reservas perdidas por una reseña negativa. Haz el cálculo.»</blockquote>
+
+<h2>Prevención: la mejor estrategia contra las averías</h2>
+
+<p>Ya lo hemos dicho en artículos anteriores, pero vale la pena repetirlo: la mayoría de las averías se pueden prevenir (o al menos detectar a tiempo) con un programa de mantenimiento regular. Las mismas incidencias que mencionamos al principio — aire acondicionado, fontanería, persianas — tienen revisiones periódicas que reducen drásticamente su probabilidad de fallo.</p>
+
+<p>Si revisas el aire acondicionado en primavera, lubricas las persianas cada seis meses, y descalcificas los grifos cada trimestre, el número de llamadas de emergencia en verano se reduce entre un 60 % y un 80 %. <strong>Eso son menos dolores de cabeza, menos reseñas negativas y menos dinero perdido</strong>.</p>
+
+<h2>ClaveHogar: cuando algo se rompe, nosotros respondemos</h2>
+
+<p>En <strong>ClaveHogar</strong> sabemos que las averías son inevitables en un piso vacacional. Por eso ofrecemos un servicio de handyman y gestión de incidencias que cubre exactamente lo que necesitas cuando algo se rompe: respuesta rápida, diagnóstico profesional y reparación eficiente.</p>
+
+<p>Nuestro equipo está en Torrevieja, conoce los pisos de la zona, sabe cómo funciona el clima y los materiales, y tiene contactos directos con especialistas para cualquier tipo de reparación. Además, si contratas nuestro servicio integral, coordinamos la avería con limpieza y check-in para minimizar el impacto en tus huéspedes.</p>
+
+<p>También te asesoramos sobre el seguro de hogar más adecuado para tu piso vacacional y te ayudamos a montar ese plan de emergencia del que hablamos en este artículo. <strong>Porque tener un plan B no es pesimismo: es profesionalidad</strong>.</p>
+
+<p>¿Quieres saber cómo funciona nuestro servicio de handyman? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo podemos ayudarte a dormir tranquilo, incluso cuando algo se rompe.</p>`,
+  },
+  {
+    slug: "check-in-check-out-airbnb-torrevieja",
+    title: "Check-in y check-out profesional para Airbnb en Torrevieja: la clave de una experiencia de 5 estrellas",
+    excerpt: "La primera y la última impresión son las que más pesan en la valoración de tus huéspedes. Descubre cómo un check-in y check-out profesionales marcan la diferencia en Torrevieja.",
+    category: "Gestión Vacacional",
+    emoji: "🤝",
+    date: "2 de julio de 2026",
+    readTime: 6,
+    body: `<p>Hay dos momentos en los que un huésped está especialmente receptivo a formar una opinión sobre tu piso: cuando llega y cuando se va. <strong>El check-in y el check-out son los puntos de contacto más intensos de toda la estancia</strong>, y gestionarlos bien — o mal — puede determinar si recibes una reseña de 5 estrellas o una de 3.</p>
+
+<p>En Torrevieja, donde la rotación de huéspedes es alta y muchos propietarios viven fuera de España, el check-in y el check-out suelen ser el eslabón más frágil de la cadena. Un huésped que espera 20 minutos en la puerta porque quien iba a recibirle se retrasó, o que encuentra el piso sin acabar de limpiar porque el horario del check-out no se respetó, ya ha empezado su estancia con el pie izquierdo.</p>
+
+<p>En este artículo te contamos cómo convertir estos dos momentos críticos en una ventaja competitiva para tu alquiler vacacional.</p>
+
+<h2>Por qué el check-in es la primera batalla (y cómo ganarla)</h2>
+
+<p>El check-in no empieza cuando el huésped llama al timbre. Empieza días antes, con la comunicación previa, y termina cuando el huésped cruza la puerta y siente que está en casa. <strong>Cada paso de ese proceso es una oportunidad para generar confianza o para sembrar dudas</strong>.</p>
+
+<p>Según datos de Airbnb, los anuncios con una valoración de 5 estrellas en el apartado de «llegada» tienen un 40 % más de probabilidades de ser reservados que aquellos con 4 estrellas o menos. La primera impresión literalmente vende.</p>
+
+<h3>¿Qué hace que un check-in sea excelente?</h3>
+
+<ul>
+  <li><strong>Comunicación previa clara y anticipada</strong> — el huésped debe recibir toda la información necesaria al menos 48 horas antes de su llegada: dirección exacta, instrucciones de acceso, recomendaciones sobre aparcamiento, código de la puerta o ubicación de la caja de llaves, y un número de contacto local para emergencias. <strong>La incertidumbre genera ansiedad, y la ansiedad genera malas reseñas</strong>.</li>
+  <li><strong>Puntualidad absoluta</strong> — si el check-in es a las 16:00, el piso debe estar listo a las 16:00, no a las 16:15 ni a las 16:30. Un retraso de 15 minutos en la entrega puede arruinar la primera impresión, por muy bonito que sea el piso.</li>
+  <li><strong>Recepción cálida y profesional</strong> — la persona que recibe al huésped debe ser amable, sonreír, dar una bienvenida genuina y ofrecerse a explicar el funcionamiento del piso: el aire acondicionado, la vitrocerámica, el Wi-Fi, dónde están las toallas extra. <strong>Estos 5 minutos de atención personal valen más que mil fotos del anuncio</strong>.</li>
+  <li><strong>Pequeño detalle de bienvenida</strong> — una botella de agua fría en la nevera, un café de cápsula, un mapa de Torrevieja con recomendaciones escritas a mano. El gesto no tiene que ser caro; tiene que ser genuino. Los huéspedes recuerdan estos detalles y los mencionan en las reseñas.</li>
+</ul>
+
+<blockquote>«Un check-in bien hecho es como un apretón de manos firme: genera confianza al instante. Un check-in mal hecho es como llegar a una cita y que la otra persona llegue tarde y desaliñada — la relación empieza en negativo y cuesta remontarla.»</blockquote>
+
+<h2>El check-out: la última impresión (y la que más se recuerda)</h2>
+
+<p>Si el check-in es la primera impresión, el check-out es la última. Y la psicología lo confirma: <strong>las personas recuerdan mejor el final de una experiencia que el desarrollo</strong>. Un check-out positivo puede hacer que un huésped olvide pequeños inconvenientes durante la estancia. Un check-out negativo puede arruinar una estancia que, por lo demás, fue perfecta.</p>
+
+<h3>Los errores más comunes en el check-out</h3>
+
+<ul>
+  <li><strong>Presionar al huésped para que se vaya</strong> — llamar a la puerta antes de la hora, enviar mensajes insistentes, o presentarse en el piso cuando aún no han salido. Esto genera una sensación de mala educación que el huésped recordará al escribir la reseña.</li>
+  <li><strong>Check-out sin comunicación de despedida</strong> — el huésped deja las llaves, cierra la puerta y... silencio. Como si la relación terminara en seco. Una despedida cálida, aunque sea por mensaje, deja una huella positiva justo antes de la reseña.</li>
+  <li><strong>Cobros sorpresa después de la salida</strong> — reclamar por una toalla manchada o un plato roto sin haberlo hablado antes. Salvo que el daño sea grave, asumir el desgaste normal del uso vacacional es parte del negocio. Cobrar por pequeñeces genera reseñas furiosas que cuestan mucho más que el importe reclamado.</li>
+  <li><strong>No dar instrucciones claras para la salida</strong> — el huésped no sabe si debe dejar las sábanas en la cama o en el suelo, si tiene que sacar la basura o dejarla en la cocina, dónde depositar las llaves. Una lista breve y clara de lo que se espera al hacer el check-out evita confusiones y malentendidos.</li>
+</ul>
+
+<h3>El check-out ideal en 4 pasos</h3>
+
+<ol>
+  <li><strong>La noche antes, envía un mensaje amable</strong> recordando la hora de salida y los pasos básicos: «Espero que estés disfrutando de Torrevieja. Solo un recordatorio: el check-out es mañana a las 11:00. Puedes dejar las llaves en la mesita de la entrada y la basura en el contenedor de la esquina. ¡Gracias por quedarte con nosotros!»</li>
+  <li><strong>A la hora de salida, un mensaje de despedida</strong>: «Espero que hayas pasado una gran estancia en Torrevieja. Si te apetece, nos encantaría leer tu reseña. ¡Un abrazo y hasta la próxima!»</li>
+  <li><strong>Después de la salida, revisa el piso con calma</strong> — antes de que llegue el equipo de limpieza, haz una revisión rápida para detectar posibles daños u objetos olvidados. Si el huésped dejó algo, contáctalo de inmediato.</li>
+  <li><strong>Si todo está bien, confírmalo</strong>: un breve «todo perfecto, gracias por cuidar el piso como si fuera tuyo» cierra el círculo y refuerza la relación con el huésped, aumentando las posibilidades de que repita o recomiende el piso a conocidos.</li>
+</ol>
+
+<h2>Check-in presencial vs. digital: ¿cuál elegir en Torrevieja?</h2>
+
+<p>Es un debate recurrente entre los propietarios. Ambas opciones tienen ventajas y desventajas, y la elección depende del perfil de tu piso y de tu disponibilidad.</p>
+
+<h3>Check-in presencial</h3>
+
+<p><strong>Ventajas:</strong> la interacción personal genera una conexión más fuerte con el huésped. Puedes explicar el funcionamiento del piso en persona, resolver dudas al momento, y detectar posibles problemas antes de que el huésped los descubra por su cuenta. Además, muchos huéspedes — especialmente los de mayor edad o los que viajan por primera vez a Torrevieja — valoran mucho ser recibidos por alguien.</p>
+
+<p><strong>Inconvenientes:</strong> requiere coordinación horaria, tener a alguien disponible para cada llegada, y gestionar los retrasos de vuelos o carreteras. En verano, con check-ins cada 2-3 días, la carga logística es significativa.</p>
+
+<h3>Check-in digital (caja de llaves o smart lock)</h3>
+
+<p><strong>Ventajas:</strong> el huésped llega cuando quiere, sin depender de horarios. Ideal para vuelos nocturnos o retrasos. Reduce la carga operativa del propietario al mínimo.</p>
+
+<p><strong>Inconvenientes:</strong> no hay interacción personal, lo que puede hacer que la experiencia sea más fría. Si el huésped tiene problemas con la caja de llaves o el código, no hay nadie presencial para ayudarle. Y si algo no funciona en el piso (el Wi-Fi no conecta, el aire no enfría), el huésped tiene que escribir y esperar respuesta, en lugar de tener a alguien que lo resuelva en persona.</p>
+
+<h3>La mejor opción: un modelo híbrido</h3>
+
+<p>En ClaveHogar recomendamos un modelo híbrido: <strong>check-in presencial siempre que sea posible, con respaldo digital para los casos en los que el horario no encaje</strong>. El huésped recibe instrucciones claras para ambos escenarios, y siempre hay un número de contacto local disponible por si surge cualquier problema.</p>
+
+<p>Este modelo combina lo mejor de ambos mundos: la calidez del trato personal con la flexibilidad de la tecnología. Y es el que utilizan los mejores anfitriones de Torrevieja.</p>
+
+<h2>El reto del multilingüismo en Torrevieja</h2>
+
+<p>En Torrevieja, los huéspedes llegan de toda Europa: alemanes, neerlandeses, británicos, franceses, belgas, polacos, suecos... <strong>Atender a cada uno en su idioma — o al menos en un idioma de comunicación común — es un desafío que muchos propietarios subestiman</strong>.</p>
+
+<p>Un check-in presencial en español cuando el huésped solo habla alemán puede ser una experiencia frustrante para ambos. Por eso, es importante contar con alguien que pueda comunicarse al menos en inglés, y preferiblemente también en alemán o neerlandés, que son los idiomas más comunes entre los huéspedes de Torrevieja.</p>
+
+<p>Para los check-ins digitales, tener instrucciones traducidas a varios idiomas (inglés, alemán, neerlandés, francés) es un plus que los huéspedes agradecen y valoran en sus reseñas.</p>
+
+<blockquote>«Un huésped que es recibido en su propio idioma —aunque sea con un inglés básico y gestos— se siente más bienvenido que uno que recibe un frío mensaje automático de bienvenida en español. El esfuerzo de comunicarse en su lengua se nota y se valora.»</blockquote>
+
+<h2>Check-in y check-out como parte de un servicio integral</h2>
+
+<p>Si ya tienes un servicio de limpieza profesional entre rotaciones y un handyman de confianza, añadir la coordinación de check-in y check-out al mismo paquete es el paso lógico para tener una gestión completamente externalizada. Las ventajas son evidentes:</p>
+
+<ul>
+  <li><strong>Coordinación perfecta</strong> — el equipo de limpieza sabe exactamente cuándo termina el check-out y cuándo empieza la limpieza. Sin tiempos muertos ni solapamientos.</li>
+  <li><strong>Un solo interlocutor</strong> — el huésped tiene un único número de contacto para check-in, incidencias y check-out. Sin confusiones ni derivaciones.</li>
+  <li><strong>Reporte al propietario</strong> — al final de cada rotación, recibes un resumen: check-in realizado, limpieza completada, incidencias detectadas (si las hubo), check-out gestionado. Tú te enteras de todo sin estar pendiente.</li>
+  <li><strong>Disponibilidad real 24/7</strong> — si un vuelo se retrasa y el huésped llega a las 2 de la madrugada, hay alguien disponible para recibirle. Intenta hacer eso tú solo sin perder el sueño.</li>
+</ul>
+
+<h2>ClaveHogar: coordinamos tu check-in y check-out en Torrevieja</h2>
+
+<p>En <strong>ClaveHogar</strong> sabemos que el check-in y el check-out son mucho más que entregar y recoger llaves. Son el principio y el final de la experiencia de tus huéspedes, y gestionarlos bien es la forma más segura de mantener tus valoraciones en lo más alto.</p>
+
+<p>Ofrecemos un servicio completo de coordinación de check-in y check-out para pisos vacacionales en Torrevieja, con recepción presencial en varios idiomas, respaldo digital, y coordinación directa con nuestro equipo de limpieza y handyman. <strong>Tus huéspedes reciben una bienvenida de 5 estrellas, y tú recibes la tranquilidad de saber que todo está bajo control.</strong></p>
+
+<p>Además, si contratas nuestro servicio integral (limpieza + lavandería + handyman + check-in/check-out), la coordinación entre todos los servicios es automática. Tú solo te preocupas de una cosa: de ver cómo llegan las reservas y las buenas reseñas.</p>
+
+<p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo podemos ayudarte a que tus huéspedes empiecen y terminen su estancia con una sonrisa.</p>`,
+  },
+  {
+    slug: "mejorar-valoraciones-airbnb-torrevieja",
+    title: "Cómo mejorar las valoraciones en Airbnb: guía práctica para anfitriones en Torrevieja",
+    excerpt: "Subir de 4,3 a 4,9 estrellas puede duplicar tus reservas. Descubre las estrategias que usan los mejores anfitriones de Torrevieja para brillar en Airbnb.",
+    category: "Gestión Vacacional",
+    emoji: "⭐",
+    date: "23 de junio de 2026",
+    readTime: 7,
+    body: `<p>Hay una verdad incómoda en el mundo del alquiler vacacional: <strong>no basta con tener un piso bonito</strong>. Puedes tener la mejor ubicación de Torrevieja, una decoración de revista y unas fotos espectaculares, pero si las valoraciones no acompañan, las reservas no llegarán.</p>
+
+<p>Airbnb es, ante todo, un negocio de reputación. El algoritmo premia a los anuncios con mejores puntuaciones mostrándolos más veces, y los huéspedes filtran por valoración mínima antes de buscar. Un piso con 4,9 estrellas puede recibir el triple de solicitudes que uno con 4,2, aunque sean gemelos. <strong>La diferencia no está en el piso: está en cómo lo gestionas</strong>.</p>
+
+<p>En este artículo compartimos las estrategias que los mejores anfitriones de Torrevieja utilizan para mantener sus valoraciones en la cima. No es teoría: son técnicas probadas con cientos de huéspedes reales.</p>
+
+<h2>¿Qué puntuación necesitas realmente?</h2>
+
+<p>Empecemos con los números. La media global de Airbnb ronda las 4,7 estrellas. En Torrevieja, donde la competencia es alta, los pisos mejor valorados están entre 4,8 y 5,0. Pero no te obsesiones con el 5,0 perfecto: <strong>un 4,8 sostenido es mejor que un 5,0 con dos reseñas</strong>, porque el volumen de reseñas también cuenta.</p>
+
+<p>Los umbrales que realmente importan:</p>
+
+<ul>
+  <li><strong>4,7 o menos:</strong> estás en riesgo. Los huéspedes que comparan dos pisos similares elegirán el de mejor nota.</li>
+  <li><strong>4,8:</strong> estás bien. Entras en el grupo de «buenos anfitriones» que el algoritmo favorece.</li>
+  <li><strong>4,9:</strong> estás en la élite. Airbnb te muestra el distintivo de «Superanfitrión» o similar, y los huéspedes confían casi a ciegas.</li>
+  <li><strong>5,0 con 10+ reseñas:</strong> el dorado. Pero ojo: es frágil. Una sola reseña de 4 estrellas te baja a 4,9.</li>
+</ul>
+
+<blockquote>«En Airbnb, cada estrella cuenta. Una reseña de 4 estrellas no es una buena reseña — es una advertencia. Los huéspedes de 5 estrellas no perdonan detalles que para otros pasarían desapercibidos.»</blockquote>
+
+<h2>Los factores que realmente mueven la aguja</h2>
+
+<p>Airbnb pide a los huéspedes que valoren seis aspectos distintos: limpieza, precisión del anuncio, comunicación, llegada, ubicación y relación calidad-precio. No todos pesan igual, y el secreto está en saber cuáles tienen más impacto en la nota general.</p>
+
+<h3>1. Limpieza — el rey indiscutible</h3>
+
+<p>Es, con diferencia, el factor número 1. Un piso impecable perdona una ubicación regular o un precio ligeramente alto. Un piso sucio destruye cualquier otra virtud. <strong>En Torrevieja, con la humedad y el salitre, mantener un piso realmente limpio requiere más esfuerzo que en otras zonas</strong>, pero la recompensa en valoraciones es inmediata.</p>
+
+<p>Consejos prácticos:</p>
+
+<ul>
+  <li><strong>Revisa los puntos ciegos:</strong> debajo de las camas, detrás de las puertas, rodapiés, lámparas de techo, mandos a distancia — los huéspedes miran donde tú no miras.</li>
+  <li><strong>Ventila siempre:</strong> después de limpiar, abre ventanas 15-20 minutos. El olor a productos químicos o a humedad cerrada es una de las quejas más comunes.</li>
+  <li><strong>Usa productos profesionales:</strong> los detergentes de supermercado no eliminan la cal del agua de Torrevieja. Necesitas productos específicos para que los grifos y cristales queden impecables.</li>
+  <li><strong>Cambia la ropa de cama siempre:</strong> aunque el huésped anterior solo durmiera una noche. No hay atajos aquí.</li>
+</ul>
+
+<h3>2. Comunicación — el factor diferenciador</h3>
+
+<p>Tiempo de respuesta, tono y disponibilidad. Airbnb mide cuánto tardas en responder al primer mensaje, y los huéspedes valoran sentirse atendidos. <strong>Responder en menos de 5 minutos no es exagerado: es el estándar de los superanfitriones</strong>.</p>
+
+<p>Lo que marca la diferencia:</p>
+
+<ul>
+  <li><strong>Primer mensaje automático de calidad:</strong> no un simple «gracias por reservar», sino un mensaje con información útil: cómo llegar, dónde aparcar, código de la puerta, datos de contacto local para emergencias.</li>
+  <li><strong>Disponibilidad real durante la estancia:</strong> si un huésped te escribe con una duda sobre el aire acondicionado y tardas 3 horas en responder, esa estrella de comunicación peligra.</li>
+  <li><strong>Despedida cálida:</strong> un mensaje de «espero que hayas disfrutado, cualquier cosa para la próxima vez aquí estoy» al final de la estancia deja una huella positiva justo antes de que el huésped escriba la reseña.</li>
+</ul>
+
+<h3>3. Llegada (check-in) — la primera impresión</h3>
+
+<p>Llegar a un piso después de un viaje y encontrar todo preparado es una de las mayores satisfacciones para un huésped. Y al revés: tener que esperar, llamar a alguien que no aparece, o lidiar con instrucciones confusas, es la forma más rápida de ganarse una mala valoración.</p>
+
+<p>Claves para un check-in de 5 estrellas:</p>
+
+<ul>
+  <li><strong>Instrucciones claras y anticipadas:</strong> envía las indicaciones 24-48 horas antes. Dirección exacta, cómo acceder al edificio, dónde está el parking gratuito más cercano, fotos de la fachada y la puerta.</li>
+  <li><strong>Recepción presencial o digital impecable:</strong> si haces check-in presencial, la persona que recibe debe ser puntual, amable y profesional. Si usas caja de llaves o smart lock, asegúrate de que funciona y de que el código se actualiza correctamente.</li>
+  <li><strong>Pequeño detalle de bienvenida:</strong> una botella de agua fría, un café, un mapa de Torrevieja, o una nota de bienvenida escrita a mano. Son gestos que cuestan poco y generan un impacto enorme en la primera impresión.</li>
+</ul>
+
+<h3>4. Precisión del anuncio — no prometas lo que no tienes</h3>
+
+<p>Este factor es traicionero. Muchos anfitriones pecan de optimistas: describen el piso como «a 2 minutos de la playa» cuando en realidad son 8, o ponen «vistas al mar» cuando desde la terraza se ve una rendija. <strong>Los huéspedes castigan severamente la falta de precisión</strong>, aunque el piso sea bonito.</p>
+
+<p>Reglas de oro:</p>
+
+<ul>
+  <li><strong>Mide las distancias reales</strong> a la playa, al supermercado y al centro. Usa «a 10 minutos andando» en lugar de «cerca de todo».</li>
+  <li><strong>Fotografía el piso tal como es</strong>, sin lentes o ángulos engañosos. Las fotos deben reflejar exactamente lo que el huésped encontrará.</li>
+  <li><strong>Menciona todo lo relevante:</strong> si no hay ascensor, dilo. Si el aire acondicionado está solo en el salón, dilo. Si hay obras cerca, dilo también. Una advertencia a tiempo evita una queja después.</li>
+</ul>
+
+<h2>Pequeños gestos que generan grandes estrellas</h2>
+
+<p>Más allá de los factores oficiales de Airbnb, hay detalles que los mejores anfitriones de Torrevieja incorporan y que marcan la diferencia en la reseña final:</p>
+
+<ul>
+  <li><strong>Kit de bienvenida local:</strong> un pequeño mapa con tus recomendaciones personales — el mejor bar para tapear, la calle más bonita para pasear, la playa menos conocida. Los huéspedes valoran mucho la información que no encuentran en Google.</li>
+  <li><strong>Wi-Fi que funciona de verdad:</strong> en Torrevieja, muchas conexiones son lentas o inestables. Asegúrate de tener un router de calidad y, si el piso es grande, un repetidor. <strong>El Wi-Fi lento es una de las quejas que más estrellas resta</strong>, especialmente entre huéspedes internacionales que teletrabajan.</li>
+  <li><strong>Toallas y sábanas de calidad:</strong> no escatimes aquí. Un juego de sábanas de 300 hilos y toallas de algodón egipcio cuestan un poco más, pero generan reseñas de «hotel de lujo» que atraen a más huéspedes.</li>
+  <li><strong>Climatización preparada:</strong> en verano, llega 30 minutos antes del check-in y enciende el aire acondicionado. Que el huésped entre y note el frescor es una de las mejores bienvenidas posibles en Torrevieja.</li>
+  <li><strong>Botiquín básico y amenities:</strong> gel, champú, papel higiénico extra, un par de pastillas de lavavajillas. Detalles que parece que no se ven, pero que cuando faltan, se notan mucho.</li>
+</ul>
+
+<blockquote>«Un huésped que encuentra un detalle inesperado — una botella de vino local, un mapa hecho a mano, una nota de bienvenida — tiene un 80 % más de probabilidades de dejar una reseña de 5 estrellas. No es magia, es psicología básica.»</blockquote>
+
+<h2>¿Y si llega una reseña negativa?</h2>
+
+<p>Nadie es perfecto. Incluso los superanfitriones reciben alguna reseña de 3 o 4 estrellas de vez en cuando. Lo importante es cómo reaccionas:</p>
+
+<ul>
+  <li><strong>Responde siempre a las reseñas negativas</strong> — de forma profesional, educada y constructiva. Explica qué pasó sin poner excusas y, sobre todo, di qué has hecho para solucionarlo. Los futuros huéspedes leen estas respuestas y valoran la transparencia.</li>
+  <li><strong>Si el error fue tuyo, admítelo</strong> — un «tienes toda la razón, ya hemos revisado el proceso para que no vuelva a ocurrir» genera más confianza que un intento de justificación.</li>
+  <li><strong>No respondas con enfado</strong> — por muy injusta que te parezca la reseña, una respuesta agresiva espanta a futuros huéspedes. Sé profesional, siempre.</li>
+  <li><strong>Si la reseña infringe las normas de Airbnb</strong> (contenido falso, ofensivo o irrelevante), puedes solicitar su eliminación. No abuso de esta opción, pero existe.</li>
+</ul>
+
+<h2>El valor de delegar en profesionales</h2>
+
+<p>Todo lo que hemos contado aquí es factible. Pero requiere tiempo, consistencia y atención al detalle. Cuando tienes un solo piso y vives cerca, puedes hacerlo tú mismo. Cuando tienes varios pisos, o vives lejos, o simplemente no quieres estar pendiente del mensaje de las 23:00, <strong>la solución es delegar en un equipo que sepa lo que hace</strong>.</p>
+
+<p>Los mejores anfitriones de Torrevieja no hacen todo ellos mismos. Tienen un equipo de confianza que se encarga de la limpieza profesional, la lavandería, las pequeñas reparaciones y la coordinación de check-ins. Ellos se concentran en la estrategia: precios, calendario, mejora continua. <strong>El trabajo operativo lo hace alguien que sabe hacerlo bien y de forma consistente</strong>.</p>
+
+<h2>ClaveHogar: tu aliado para llegar a las 5 estrellas</h2>
+
+<p>En <strong>ClaveHogar</strong> trabajamos cada día para que los pisos de nuestros clientes en Torrevieja reciban las mejores valoraciones. Sabemos lo que valora un huésped alemán, lo que espera uno neerlandés y lo que no perdona uno británico. Y aplicamos ese conocimiento en cada limpieza, cada lavado y cada check-in que coordinamos.</p>
+
+<p>Nuestro servicio integral cubre limpieza profesional entre huéspedes, lavandería, handyman, check-in y check-out, y gestión de incidencias. Todo coordinado para que tu piso funcione al nivel de los mejores anfitriones de Torrevieja, sin que tengas que estar encima.</p>
+
+<p><strong>¿Quieres mejorar tus valoraciones?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a> y te contamos cómo podemos ayudarte a llegar a las 5 estrellas.</p>`
+  },
+  {
+    slug: "mejorar-valoraciones-airbnb-torrevieja",
+    title: "Cómo mejorar las valoraciones en Airbnb: guía práctica para anfitriones en Torrevieja",
+    excerpt: "Subir de 4,5 a 4,9 estrellas puede duplicar tus reservas. Descubre las estrategias que usan los mejores anfitriones de la Costa Blanca para brillar en las reseñas.",
+    category: "Gestión Vacacional",
+    emoji: "⭐",
+    date: "4 de julio de 2026",
+    readTime: 6,
+    body: `<p>Hay una verdad incómoda que muchos propietarios de alquiler vacacional descubren demasiado tarde: <strong>en Airbnb no compites contra pisos de calidad similar, compites contra las expectativas del huésped</strong>. Y las expectativas, en un mercado como Torrevieja, suben cada temporada.</p>
+
+<p>Un piso con una valoración media de 4,9 estrellas puede cobrar entre un 20 % y un 30 % más por noche que uno con 4,5 estrellas en la misma calle. Tiene más reservas, menos cancelaciones, y los huéspedes lo tratan mejor porque pagaron más por él. <strong>Las valoraciones no son un reflejo de tu trabajo: son tu principal activo comercial</strong>.</p>
+
+<p>En esta guía te contamos, punto por punto, cómo los anfitriones mejor valorados de Torrevieja consiguen esas reseñas de 5 estrellas. No es magia: es un sistema.</p>
+
+<h2>El factor Airbnb: por qué las valoraciones importan más que la ubicación</h2>
+
+<p>Airbnb no es Booking ni es un portal inmobiliario. Su algoritmo premia ferozmente a los anfitriones con mejores valoraciones de forma muy concreta:</p>
+
+<ul>
+  <li><strong>Mejor posición en búsquedas</strong> — los pisos con mejores reseñas aparecen antes, incluso si tienen menos reservas o precios más altos</li>
+  <li><strong>Insignia de Superhost</strong> — visible en el anuncio, genera confianza instantánea y aumenta las conversiones hasta un 20 %</li>
+  <li><strong>Más reservas directas</strong> — los huéspedes con experiencia filtran por valoración mínima (4,8+). Si estás por debajo, ni te ven</li>
+  <li><strong>Mejor relación con Airbnb</strong> — los Superhost reciben prioridad en atención al cliente y en casos de disputa</li>
+</ul>
+
+<blockquote>«Cada reseña de 5 estrellas es un imán para la siguiente reserva. Cada reseña de 4 estrellas es una oportunidad perdida. En Airbnb, el 4 es el nuevo 0.»</blockquote>
+
+<h2>Las 7 estrategias de los anfitriones de 5 estrellas en Torrevieja</h2>
+
+<p>No hace falta reinventar la rueda. Los anfitriones que mantienen valoraciones de 4,9 y 5,0 estrellas en Torrevieja hacen todos lo mismo. Esto es lo que funciona:</p>
+
+<h3>1. La primera impresión empieza antes del check-in</h3>
+
+<p>La valoración del huésped empieza a formarse <strong>mucho antes de que cruce la puerta</strong>. Desde el momento en que hace la reserva, cada interacción cuenta:</p>
+
+<ul>
+  <li><strong>Mensaje de bienvenida inmediato</strong> — en cuanto se confirma la reserva, envía un mensaje de agradecimiento con información útil: cómo llegar al piso desde el aeropuerto de Alicante-Elche, recomendaciones de restaurantes cerca, y el contacto de emergencia. <strong>Un huésped que siente que le esperan llega predispuesto a disfrutar</strong>.</li>
+  <li><strong>Instrucciones claras de check-in</strong> — nada de explicaciones confusas. Envíalo por escrito (WhatsApp o la app de Airbnb) y ten a alguien disponible por si el huésped se pierde. En Torrevieja, muchos huéspedes llegan de noche y la orientación en una ciudad nueva puede ser complicada.</li>
+  <li><strong>Toque personal</strong> — una botella de agua fría en la nevera, un mapa de Torrevieja, una nota de bienvenida en la mesa. Detalles que cuestan poco y generan una sonrisa en el primer momento de la estancia.</li>
+</ul>
+
+<h3>2. Limpieza impecable (no hay atajos)</h3>
+
+<p>Es el factor número 1 en las valoraciones de Airbnb, y no hay forma de engañarlo. Los huéspedes no perdonan una limpieza mediocre, pero una limpieza excepcional es el camino más rápido hacia las 5 estrellas. En Torrevieja, con la humedad y el salitre, hay puntos críticos:</p>
+
+<ul>
+  <li><strong>Sin rastro de sal en las superficies</strong> — las ventanas y barandillas de las terrazas acumulan salitre que los huéspedes tocan al asomarse. Un paño con vinagre las deja impecables.</li>
+  <li><strong>Cal en grifos y duchas</strong> — el agua dura de Torrevieja deja depósitos blancos visibles. Limpiar los aireadores y cabezales de ducha regularmente es imprescindible.</li>
+  <li><strong>Arena en las entradas</strong> — en verano, los huéspedes traen arena de la playa a todas partes. Una alfombra absorbente en la entrada y una fregona a mano para las salidas evitan que el piso parezca una playa.</li>
+  <li><strong>Olor a fresco, no a productos químicos</strong> — usa productos neutros que limpien bien pero no dejen fragancias artificiales fuertes. El olor a lejía o amoniaco es tan mal recibido como la suciedad.</li>
+</ul>
+
+<blockquote>«La limpieza es el único factor donde el 100 % de los huéspedes coincide. Una cama cómoda puede gustar a unos y a otros no. Un piso sucio no le gusta a nadie.»</blockquote>
+
+<h3>3. Camas cómodas y ropa de cama de calidad</h3>
+
+<p>Si hay algo por lo que los huéspedes pagan en un alquiler vacacional, es por dormir bien. Esa cama que tienes desde que compraste el piso y que nunca cambiaste porque «todavía aguanta» puede estar costándote puntos en las reseñas sin que lo sepas.</p>
+
+<p>Los anfitriones mejor valorados invierten en:</p>
+
+<ul>
+  <li><strong>Colchones de firmeza media</strong> — los que mejor se adaptan a distintos gustos. Un colchón demasiado blando o demasiado duro aparece en las reseñas tarde o temprano.</li>
+  <li><strong>Almohadas de diferentes alturas y firmezas</strong> — tener dos tipos de almohada por cama permite que cada huésped elija la que le gusta. Es barato y muy efectivo.</li>
+  <li><strong>Sábanas con un mínimo de 200 hilos</strong> — las sábanas baratas se apelmazan y pierden suavidad después de unos cuantos lavados. Las de calidad aguantan mejor el uso intensivo de la lavandería.</li>
+  <li><strong>Protectores de colchón impermeables</strong> — alargan la vida del colchón y evitan sorpresas desagradables. Silenciosos, no de plástico.</li>
+</ul>
+
+<h3>4. Check-in flexible y comunicación rápida</h3>
+
+<p>Los vuelos a Alicante-Elche no siempre llegan a la hora prevista. Los retrasos, las colas en el aeropuerto, el alquiler de coche... todo suma. Un huésped que llega dos horas tarde y se encuentra con que nadie le abre es una reseña negativa en potencia.</p>
+
+<ul>
+  <li><strong>Check-in autónomo siempre que sea posible</strong> — una caja de llaves con código o una cerradura inteligente permite que el huésped entre aunque tú no estés físicamente. Los anfitriones que ofrecen flexibilidad de horarios tienen mejores valoraciones.</li>
+  <li><strong>Tiempo de respuesta inferior a 10 minutos</strong> — la app de Airbnb muestra el tiempo de respuesta. Los Superhost suelen responder en menos de una hora. Si tienes a alguien en Torrevieja disponible para mensajes urgentes, mucho mejor.</li>
+  <li><strong>Información de contacto local</strong> — un número de teléfono con WhatsApp activo (el de tu equipo de gestión, no tu número personal) para que el huésped sepa a quién llamar si necesita algo.</li>
+</ul>
+
+<h3>5. Pequeños lujos que marcan la diferencia</h3>
+
+<p>No se trata de convertir tu piso en un hotel de lujo, sino de anticipar lo que el huésped va a necesitar y ponerlo a su disposición antes de que lo pida:</p>
+
+<ul>
+  <li><strong>Wi-Fi rápido y estable</strong> — es lo primero que preguntan muchos huéspedes al llegar. Un router de calidad con cobertura en todas las habitaciones es una inversión básica. Si tienes repetidores, configúralos bien.</li>
+  <li><strong>Smart TV con Netflix y Prime Video</strong> — pocas cosas generan más gratitud instantánea que llegar al piso, encender la tele y ver que ya tienes sesión iniciada en las plataformas.</li>
+  <li><strong>Cafetera con cápsulas de cortesía</strong> — una cafetera Nespresso o Dolce Gusto con un par de cápsulas para el primer día. Por la tarde, el huésped ya habrá ido al supermercado a comprar las suyas.</li>
+  <li><strong>Cargadores USB junto a la mesita de noche</strong> — la gente viaja con cables, pero un cargador con puertos USB-C y USB-A en cada mesita es un gesto que siempre se agradece.</li>
+</ul>
+
+<h3>6. Gestiona las reseñas negativas antes de que se escriban</h3>
+
+<p>Esta es la estrategia que separa a los anfitriones expertos de los novatos. <strong>Si algo va mal durante la estancia, actúa antes de que el huésped abra la app de Airbnb para escribir la reseña</strong>:</p>
+
+<ul>
+  <li><strong>Si hay un problema, anticípate al mensaje del huésped</strong> — si el aire acondicionado falló y tardaste 3 horas en repararlo, envía un mensaje después de la reparación: «Sentimos las molestias con el aire. Ya está funcionando. Para compensar, hemos dejado un detalle en la nevera.» Un gesto sincero desactiva la queja.</li>
+  <li><strong>Pregunta al huésped cómo va todo a mitad de estancia</strong> — un mensaje simple tipo «¿Todo bien? ¿Necesitas algo?» el día 2 o 3 de la estancia permite detectar problemas a tiempo. Si hay algo que no funciona, puedes arreglarlo mientras el huésped sigue allí.</li>
+  <li><strong>Invita a la reseña positiva en el momento adecuado</strong> — el día del check-out, cuando el huésped se va contento, un mensaje de despedida cálido con un «Si has disfrutado la estancia, nos encantaría que dejaras una reseña» funciona mucho mejor que recordatorios automáticos genéricos.</li>
+</ul>
+
+<blockquote>«Un huésped que se sintió escuchado y atendido durante su estancia rara vez deja una reseña negativa, incluso si hubo algún problema. La clave no es evitar los fallos: es demostrar que te importa resolverlos.»</blockquote>
+
+<h3>7. Revisa tus reseñas y mejora continuamente</h3>
+
+<p>Los mejores anfitriones no leen las reseñas para regodearse en los elogios: las leen para encontrar patrones. Si dos huéspedes diferentes mencionan que faltaban perchas en el armario, al tercero ya le has puesto perchas. Si tres reseñas dicen que el colchón del dormitorio principal es incómodo, es hora de cambiarlo.</p>
+
+<p><strong>Cada reseña es datos gratuitos sobre cómo mejorar tu producto</strong>. Ignorarlas es como tener un termómetro y no mirarlo.</p>
+
+<h2>Y el factor invisible: la constancia</h2>
+
+<p>Ninguna de estas estrategias funciona de forma aislada. La clave de los anfitriones de 5 estrellas no es hacer una cosa espectacular, sino hacer 20 cosas bien, siempre, en cada rotación. <strong>La consistencia mata a la intensidad</strong>.</p>
+
+<p>Un piso en Torrevieja con 50 reseñas de 5 estrellas consecutivas no es producto de la suerte. Es el resultado de un sistema: limpieza profesional, lavandería impecable, mantenimiento preventivo, check-in flexible y atención al huésped de calidad. Todo funcionando en conjunto, rotación tras rotación.</p>
+
+<h2>ClaveHogar: el equipo que te ayuda a llegar a 5 estrellas</h2>
+
+<p>En <strong>ClaveHogar</strong> trabajamos con anfitriones de Torrevieja que quieren mantener valoraciones excelentes sin tener que estar encima de cada detalle. Nuestro servicio integral cubre limpieza profesional entre huéspedes, lavandería, handyman y coordinación de check-in/check-out — exactamente lo que necesitas para que tu piso esté siempre listo para recibir una reseña de 5 estrellas.</p>
+
+<p>No gestionamos tu anuncio de Airbnb. Gestionamos todo lo que ocurre <em>detrás</em> del anuncio: el trabajo invisible que convierte un piso normal en una experiencia de 5 estrellas.</p>
+
+<p>¿Quieres saber cómo podemos ayudarte a mejorar tus valoraciones? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos sin compromiso cómo funciona nuestro servicio para anfitriones en Torrevieja.</p>`,
+  },
 ];
 
 export function getAllPosts(): Post[] {
