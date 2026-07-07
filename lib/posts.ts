@@ -854,14 +854,168 @@ export const posts: Post[] = [
 <p><strong>¿Quieres mejorar tus valoraciones?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a> y te contamos cómo podemos ayudarte a llegar a las 5 estrellas.</p>`
   },
   {
-    slug: "mejorar-valoraciones-airbnb-torrevieja",
-    title: "Cómo mejorar las valoraciones en Airbnb: guía práctica para anfitriones en Torrevieja",
-    excerpt: "Subir de 4,5 a 4,9 estrellas puede duplicar tus reservas. Descubre las estrategias que usan los mejores anfitriones de la Costa Blanca para brillar en las reseñas.",
+    slug: "airbnb-torrevieja-invierno-como-mantener-piso-ocupado",
+    title: "Airbnb en Torrevieja en invierno: cómo mantener tu piso ocupado todo el año",
+    excerpt: "Torrevieja no vive solo del verano. Descubre cómo rentabilizar tu alquiler vacacional en los meses de temporada baja con estrategias que funcionan.",
     category: "Gestión Vacacional",
-    emoji: "⭐",
-    date: "4 de julio de 2026",
-    readTime: 6,
-    body: `<p>Hay una verdad incómoda que muchos propietarios de alquiler vacacional descubren demasiado tarde: <strong>en Airbnb no compites contra pisos de calidad similar, compites contra las expectativas del huésped</strong>. Y las expectativas, en un mercado como Torrevieja, suben cada temporada.</p>
+    emoji: "❄️",
+    date: "7 de julio de 2026",
+    readTime: 7,
+    body: `<p>Cuando llega septiembre, muchos propietarios de pisos vacacionales en Torrevieja asumen que la temporada alta ha terminado y guardan las llaves hasta la próxima primavera. <strong>Es un error que cuesta miles de euros al año</strong>.</p>
+
+<p>Torrevieja tiene un microclima privilegiado con más de 300 días de sol al año y temperaturas que rara vez bajan de los 10 °C. En diciembre, mientras en Londres o Berlín la gente se congela, aquí todavía se puede tomar el café en una terraza al mediodía. Eso convierte a la ciudad en un destino de invierno muy atractivo para un perfil concreto de huésped: el nómada digital, el jubilado europeo y las parejas que buscan escapadas de fin de semana largas.</p>
+
+<p>Mantener tu piso ocupado en invierno no es cuestión de suerte: es cuestión de estrategia. En este artículo te contamos cómo hacerlo.</p>
+
+<h2>El mercado invernal de Torrevieja: quién alquila y por qué</h2>
+
+<p>Para entender cómo llenar tu piso en invierno, primero tienes que entender quién viaja a Torrevieja entre octubre y marzo. El perfil es muy distinto al del turista de verano:</p>
+
+<ul>
+  <li><strong>Jubilados europeos (55+)</strong> — alemanes, británicos, neerlandeses y belgas que pasan los meses fríos en la Costa Blanca huyendo del invierno del norte de Europa. Suelen quedarse estancias largas: de 2 semanas a 3 meses. Buscan tranquilidad, paseos por el paseo marítimo, mercados locales y una vida social tranquila. <strong>Son los inquilinos ideales para el invierno: estables, cuidadosos y con presupuesto</strong>.</li>
+  <li><strong>Nómadas digitales y teletrabajadores</strong> — cada vez más profesionales europeos trabajan en remoto y aprovechan los precios bajos del invierno en Torrevieja para instalarse un mes o dos. Buscan Wi-Fi rápido, un escritorio cómodo, buena climatización y ubicación cerca de cafeterías y supermercados.</li>
+  <li><strong>Parejas en escapada de fin de semana largo</strong> — sobre todo de noviembre a febrero, aprovechando puentes y vacaciones de Navidad. Vuelos baratos a Alicante-Elche desde media Europa. No buscan playa, sino gastronomía, rutas de senderismo, las salinas de Torrevieja y ambiente navideño.</li>
+  <li><strong>Deportistas</strong> — Torrevieja es un destino popular para ciclismo, golf y running en invierno, cuando el clima del norte de Europa no permite entrenar al aire libre. Varios hoteles y resorts ya captan a este público. Tu piso también puede hacerlo.</li>
+</ul>
+
+<blockquote>«El invierno en Torrevieja no es temporada baja: es temporada diferente. Con el enfoque correcto, los meses de octubre a marzo pueden generar entre el 40 % y el 50 % de tus ingresos anuales.»</blockquote>
+
+<h2>Estrategia 1: prepara tu piso para estancias largas</h2>
+
+<p>El turista de invierno no busca lo mismo que el de verano. Mientras que el huésped de agosto valora la cercanía a la playa y el aire acondicionado, el de invierno busca <strong>comodidad para vivir</strong>. Esto significa que tu piso necesita algunos ajustes:</p>
+
+<h3>Calefacción eficiente</h3>
+<p>En Torrevieja no hace tanto frío como en el norte de España, pero las noches de diciembre y enero pueden ser frescas. Si tu piso solo tiene aire acondicionado con bomba de calor, asegúrate de que funciona correctamente. Los radiadores eléctricos de bajo consumo o un sistema de suelo radiante son un plus que los huéspedes de invierno valoran mucho. <strong>Un piso que no se calienta bien en invierno recibe críticas tan duras como uno sin aire en verano</strong>.</p>
+
+<h3>Cocina bien equipada</h3>
+<p>Los huéspedes de estancias largas cocinan. Necesitan una cocina con ollas, sartenes, cuchillos que corten, tabla de cortar, escurridor, recipientes para guardar comida, cafetera, tostadora. Muchos pisos vacacionales tienen cocinas decorativas con lo justo para un fin de semana. Para invierno, eso no basta. <strong>Revisa tu cocina como si fueras a vivir en ella un mes</strong>.</p>
+
+<h3>Espacio de trabajo</h3>
+<p>El nómada digital y el teletrabajador necesitan una mesa donde poner el ordenador, una silla cómoda (no un taburete de la cocina), y buena iluminación. Si tu piso tiene un rincón que pueda funcionar como escritorio, márcalo en el anuncio de Airbnb como un punto fuerte. <strong>«Espacio de trabajo dedicado» es uno de los filtros más usados por los profesionales en remoto</strong>.</p>
+
+<h3>Conexión Wi-Fi de alta velocidad</h3>
+<p>Esto es innegociable para los perfiles de invierno. Un jubilado que quiere llamar a su familia por videollamada, un nómada digital que necesita subir archivos pesados, una pareja que quiere ver Netflix sin cortes. Velocidad mínima recomendada: 100 Mbps simétricos. Si tu conexión no llega, contrata una mejora antes de la temporada baja. <strong>El Wi-Fi lento es la queja número 1 en las reseñas de invierno</strong>.</p>
+
+<h2>Estrategia 2: ajusta los precios y la duración mínima</h2>
+
+<p>El mercado de invierno no se rige por las mismas reglas que el verano. Los precios son más bajos —es normal— pero la ocupación puede ser más larga, lo que compensa con creces.</p>
+
+<h3>Precios por semana y por mes</h3>
+<p>En lugar de poner un precio por noche como en verano, ofrece descuentos significativos para estancias semanales (15-20 % de descuento) y mensuales (30-50 % de descuento). Airbnb permite configurar estos descuentos automáticamente en los ajustes del anuncio. <strong>Un huésped que paga 1.200 € por un mes entero te da más estabilidad que cuatro reservas de fin de semana a 100 € cada una</strong>.</p>
+
+<h3>Flexibilidad en la duración mínima</h3>
+<p>En enero y febrero, cuando la demanda es más baja, considera eliminar la estancia mínima de 2-3 noches. Una reserva de una sola noche paga menos, pero llena el calendario y genera una reseña. En temporada baja, cualquier ocupación es buena ocupación.</p>
+
+<blockquote>«Bajar el precio por noche un 30 % en invierno no es perder dinero: es adaptar tu oferta a un mercado distinto. Un piso vacío genera cero ingresos. Un piso con descuento genera ingresos reales y construye reputación.»</blockquote>
+
+<h2>Estrategia 3: adapta el anuncio de Airbnb para invierno</h2>
+
+<p>La mayoría de los propietarios no cambian el anuncio entre temporadas, y eso es un error. El huésped de invierno busca cosas distintas y tu anuncio debe reflejarlo:</p>
+
+<ul>
+  <li><strong>Actualiza las fotos</strong> — si tienes fotos del piso con sol y piscina, añade también alguna que muestre el espacio de trabajo, la calefacción o la cocina bien equipada. El huésped de invierno quiere ver cómo será su día a día, no solo las vacaciones de playa.</li>
+  <li><strong>Cambia el título y la descripción</strong> — incluye palabras clave como «ideal para teletrabajo», «estancias largas bienvenidas», «calefacción», «Wi-Fi fibra», «tranquilo para jubilados». Los huéspedes buscan con estos términos.</li>
+  <li><strong>Destaca los planes de invierno</strong> — en la sección de «la zona» o «el barrio», menciona los mercados navideños, las rutas de senderismo por las salinas, los campos de golf cercanos, los restaurantes con chimenea y los eventos culturales de otoño-invierno. <strong>Ayuda al huésped a imaginarse disfrutando de Torrevieja en invierno</strong>.</li>
+  <li><strong>Ofrece extras específicos</strong> — recogida en el aeropuerto, cesta de bienvenida con productos locales, descuentos en restaurantes cercanos si la estancia es larga. Los huéspedes de invierno valoran mucho sentirse cuidados durante estancias prolongadas.</li>
+</ul>
+
+<h2>Estrategia 4: enfócate en el huésped de larga estancia</h2>
+
+<p>Si hay un tipo de huésped que puede cambiarte el invierno, es el que se queda un mes o más. Pero retener a este perfil requiere un enfoque distinto:</p>
+
+<h3>Limpieza periódica incluida</h3>
+<p>Un huésped que se queda un mes no va a limpiar el piso él mismo ni va a querer pagar una limpieza profesional cada semana. Ofrece una limpieza intermedia gratuita cada 7-10 días. Es un coste bajo para ti (entre 25 y 35 € por visita) y un valor enorme para el huésped, que siente que estás pendiente de él.</p>
+
+<h3>Reposición de amenities</h3>
+<p>Papel higiénico, jabón, detergente para la lavadora. Para una estancia de una semana, el huésped se apaña. Para un mes, agradece no tener que comprar estas cosas él mismo. Un pack básico de reposición cada dos semanas es un detalle que genera una reseña de 5 estrellas.</p>
+
+<h3>Comunicación proactiva pero no invasiva</h3>
+<p>Con estancias largas, el equilibrio es delicado: quieres que el huésped sepa que estás disponible, pero no quieres agobiarlo. Un mensaje a los 3 días de llegada («¿Todo bien? ¿Necesitas algo para el piso?») y otro a mitad de estancia suele ser suficiente. El resto del tiempo, que el huésped sepa que tiene un número de contacto local para cualquier urgencia.</p>
+
+<h2>Estrategia 5: colabora con agencias y plataformas locales</h2>
+
+<p>No todo es Airbnb. Para el mercado invernal, diversificar los canales de reserva puede marcar la diferencia:</p>
+
+<ul>
+  <li><strong>Idealista o Fotocasa para alquiler mensual</strong> — durante los meses de menor demanda (enero y febrero), plantéate publicar el piso como alquiler mensual amueblado. Muchos profesionales que se trasladan a Torrevieja por trabajo buscan este tipo de alquiler temporal.</li>
+  <li><strong>Agencias locales de estancias largas</strong> — en Torrevieja hay agencias inmobiliarias que gestionan alquileres temporales para extranjeros. Deja tu piso en su cartera para los meses de invierno.</li>
+  <li><strong>Plataformas especializadas en nómadas digitales</strong> — sitios como Nomad List, Flatio o Anyplace conectan a profesionales en remoto con anfitriones que ofrecen estancias de 1 a 6 meses. Si tu piso tiene un espacio de trabajo decente y buena conexión, puedes captar este mercado.</li>
+  <li><strong>ClaveHogar</strong> — nosotros también podemos ayudarte a encontrar inquilinos de media estancia para tu piso, especialmente entre jubilados europeos que buscan pasar el invierno en Torrevieja.</li>
+</ul>
+
+<h2>¿Y la rentabilidad? Números reales de invierno</h2>
+
+<p>Hagamos cuentas realistas para un piso de 2 dormitorios en Torrevieja:</p>
+
+<table style="width:100%; border-collapse: collapse; margin: 1em 0; font-size: 0.9em;">
+  <thead>
+    <tr style="background: #f3f4f6;">
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Mes</th>
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: right;">Precio/noche</th>
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: right;">Ocupación</th>
+      <th style="padding: 8px; border: 1px solid #ddd; text-align: right;">Ingreso estimado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Octubre</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">70 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">60 % (18 noches)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">1.260 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Noviembre</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">55 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">50 % (15 noches)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">825 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Diciembre</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">65 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">55 % (17 noches)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">1.105 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Enero</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">50 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">45 % (14 noches)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">700 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Febrero</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">50 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">50 % (14 noches)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">700 €</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Marzo</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">60 €</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">55 % (17 noches)</td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;">1.020 €</td>
+    </tr>
+    <tr style="background: #f3f4f6;">
+      <td style="padding: 8px; border: 1px solid #ddd;" colspan="3"><strong>Total invierno (oct-mar)</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd; text-align: right;"><strong>~5.610 €</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Son 5.600 € que muchos propietarios dejan escapar porque asumen que en invierno no se alquila. Con una estrategia activa, ese dinero es perfectamente alcanzable. <strong>Y si tu piso está bien preparado para estancias largas, esos ingresos requieren menos rotaciones que en verano</strong> — menos limpiezas, menos check-ins, menos desgaste.</p>
+
+<h2>ClaveHogar: también en invierno</h2>
+
+<p>En <strong>ClaveHogar</strong> trabajamos todo el año, no solo en verano. Sabemos que el invierno en Torrevieja tiene su propio ritmo y sus propias oportunidades. Por eso ofrecemos servicios adaptados a la temporada baja:</p>
+
+<ul>
+  <li><strong>Limpieza periódica para estancias largas</strong> — visitas programadas cada semana o cada 10 días para que el huésped de larga duración siempre encuentre el piso impecable</li>
+  <li><strong>Lavandería con entrega programada</strong> — sin urgencias de rotación, con plazos cómodos y precios más ajustados</li>
+  <li><strong>Mantenimiento preventivo en los meses de menor ocupación</strong> — enero y febrero son ideales para hacer las revisiones y reparaciones que en verano no se pueden hacer sin afectar reservas</li>
+  <li><strong>Coordinación de check-in y check-out</strong> para huéspedes de larga estancia, que suelen llegar con horarios más flexibles pero necesitan una atención más personalizada</li>
+</ul>
+
+<p>¿Quieres saber cómo mantener tu piso ocupado este invierno en Torrevieja? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo podemos ayudarte a rentabilizar los 365 días del año.</p>
+`
+  },
 
 <p>Un piso con una valoración media de 4,9 estrellas puede cobrar entre un 20 % y un 30 % más por noche que uno con 4,5 estrellas en la misma calle. Tiene más reservas, menos cancelaciones, y los huéspedes lo tratan mejor porque pagaron más por él. <strong>Las valoraciones no son un reflejo de tu trabajo: son tu principal activo comercial</strong>.</p>
 
