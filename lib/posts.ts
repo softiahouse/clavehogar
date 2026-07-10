@@ -854,6 +854,164 @@ export const posts: Post[] = [
 <p><strong>¿Quieres mejorar tus valoraciones?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a> y te contamos cómo podemos ayudarte a llegar a las 5 estrellas.</p>`
   },
   {
+    slug: "guia-bienvenida-huespedes-torrevieja",
+    title: "La guía de bienvenida perfecta para tus huéspedes en Torrevieja",
+    excerpt: "Una buena guía de bienvenida puede marcar la diferencia entre una reseña de 4 y una de 5 estrellas. Descubre qué incluir y cómo redactarla para huéspedes internacionales en Torrevieja.",
+    category: "Gestión Vacacional",
+    emoji: "📋",
+    date: "10 de julio de 2026",
+    readTime: 6,
+    body: `<p>Imagina que llegas de noche a una ciudad que no conoces. Entras al apartamento que alquilaste, cierras la puerta y... ¿ahora qué? ¿Dónde está el supermercado? ¿Cómo funciona el aire acondicionado? ¿Hay una farmacia cerca? ¿A qué hora recogen la basura?</p>
+
+<p>Estos son los momentos en que una buena guía de bienvenida transforma una estancia mediocre en una memorable. <strong>Los anfitriones que preparan una guía detallada y útil para sus huéspedes reciben sistemáticamente más valoraciones de 5 estrellas</strong> que los que se limitan a dejar las llaves y desaparecer. No es casualidad.</p>
+
+<p>En Torrevieja, donde el 70 % de los huéspedes son extranjeros que llegan por primera vez, una guía de bienvenida bien hecha es prácticamente obligatoria. En este artículo te contamos qué incluir, cómo redactarla y cómo hacer que marque una diferencia real en tus valoraciones.</p>
+
+<h2>Por qué una guía de bienvenida es tu mejor inversión como anfitrión</h2>
+
+<p>No es exageración. Una guía de bienvenida bien hecha te ahorra tiempo, reduce las preguntas repetitivas por WhatsApp, previene problemas y — sobre todo — genera la sensación en el huésped de que está en buenas manos. <strong>Un huésped informado es un huésped tranquilo, y un huésped tranquilo deja mejores reseñas</strong>.</p>
+
+<p>Datos que lo confirman: según encuestas internas de Airbnb, los pisos que incluyen una guía del apartamento y recomendaciones locales reciben puntuaciones entre 0,3 y 0,5 estrellas más altas en el apartado de «comunicación» y «llegada» que los que no la incluyen. En una escala de 5 estrellas, eso es la diferencia entre un anfitrión normal y un Superhost.</p>
+
+<blockquote>«La guía de bienvenida es la primera conversación que tienes con tu huésped cuando no estás presente. Si está bien hecha, responde todas sus preguntas antes de que las haga. Si está mal hecha, su teléfono empieza a vibrar con mensajes tuyos.»</blockquote>
+
+<h2>Formato: ¿digital, impresa o ambas?</h2>
+
+<p>Antes de hablar del contenido, hablemos del formato. Hay tres opciones:</p>
+
+<h3>Guía impresa en el piso</h3>
+<p>Clásica y efectiva. Un dossier plastificado o encuadernado sobre la mesa del comedor que el huésped puede hojear al llegar. <strong>Ventaja:</strong> no necesita internet, está siempre accesible, parece profesional. <strong>Inconveniente:</strong> hay que actualizarla físicamente cuando cambia algo.</p>
+
+<h3>Guía digital (PDF, Notion, Google Docs)</h3>
+<p>Envías el enlace por WhatsApp o a través de Airbnb antes de la llegada. El huésped puede consultarla desde el móvil. <strong>Ventaja:</strong> fácil de actualizar, se puede enviar antes del check-in para que el huésped llegue preparado. <strong>Inconveniente:</strong> requiere internet y que el huésped la abra activamente.</p>
+
+<h3>Guía digital en plataformas especializadas</h3>
+<p>Herramientas como Hostfully, Lodgify, Touchstay o Guesty permiten crear guías interactivas muy profesionales con fotos, mapas integrados y recomendaciones por categorías. Son la opción más avanzada y la que más impresiona a los huéspedes acostumbrados a alquilar. <strong>Inconveniente:</strong> tienen coste mensual.</p>
+
+<p><strong>La recomendación de ClaveHogar:</strong> usa una combinación de guía impresa en el piso + PDF enviado 48 horas antes del check-in. Así el huésped llega informado y tiene la referencia física disponible durante toda la estancia.</p>
+
+<h2>Las 8 secciones que no pueden faltar</h2>
+
+<p>Esto es lo que los huéspedes buscan en una guía de bienvenida, en orden de importancia:</p>
+
+<h3>1. Bienvenida personal</h3>
+<p>No empieces con instrucciones técnicas. Empieza con una bienvenida cálida y breve. Una o dos frases que hagan sentir al huésped que fue esperado:</p>
+<p><em>«Bienvenido a nuestro apartamento en Torrevieja. Esperamos que disfrutes de la Costa Blanca tanto como nosotros. Cualquier cosa que necesites, estamos a un WhatsApp de distancia: +34 693 976 311.»</em></p>
+<p>Parece obvio, pero muchos propietarios se saltan esta parte y empiezan directamente con el número de la caja de fusibles. <strong>El tono humano de la guía determina el tono de toda la estancia</strong>.</p>
+
+<h3>2. Información esencial del apartamento</h3>
+<p>Aquí van los datos que el huésped necesita en los primeros 10 minutos:</p>
+<ul>
+  <li><strong>Wi-Fi:</strong> nombre de la red y contraseña (en grande y visible)</li>
+  <li><strong>Código de la caja de llaves / smart lock</strong> y qué hacer si falla</li>
+  <li><strong>Cómo funciona el aire acondicionado:</strong> foto del mando con las funciones básicas marcadas</li>
+  <li><strong>Cómo funciona la calefacción</strong> (en los meses de invierno)</li>
+  <li><strong>Dónde está el cuadro eléctrico</strong> y qué hacer si salta algún diferencial</li>
+  <li><strong>Agua caliente:</strong> si hay termo eléctrico, cuánto tarda en calentar</li>
+  <li><strong>Separación de basuras:</strong> dónde están los contenedores y qué va en cada uno</li>
+</ul>
+
+<blockquote>«Incluir una foto del mando del aire acondicionado con las funciones marcadas con flechas es uno de los gestos más valorados en los comentarios de huéspedes, especialmente los que vienen del norte de Europa donde los mandos son distintos.»</blockquote>
+
+<h3>3. Normas de la casa</h3>
+<p>No las presentes como una lista de prohibiciones. Usa un tono amable y explicativo:</p>
+<ul>
+  <li><strong>No fumar dentro del apartamento</strong> — la terraza está disponible. El tabaco en el interior afecta a los siguientes huéspedes.</li>
+  <li><strong>Silencio a partir de las 22:00</strong> — los vecinos de los pisos colindantes lo agradecen, y nosotros también.</li>
+  <li><strong>No se permiten fiestas o celebraciones ruidosas</strong></li>
+  <li><strong>Mascotas:</strong> indica si están permitidas o no</li>
+  <li><strong>Aforo máximo del piso</strong></li>
+  <li><strong>Instrucciones para el check-out:</strong> a qué hora deben salir, dónde dejar las llaves, si deben sacar la basura o recoger las toallas</li>
+</ul>
+
+<h3>4. Servicios básicos cerca del piso</h3>
+<p>Esta sección es oro puro para los huéspedes internacionales que llegan sin conocer Torrevieja:</p>
+<ul>
+  <li><strong>Supermercado más cercano:</strong> nombre, distancia a pie y horario (incluye si abre en domingo, que en España es clave)</li>
+  <li><strong>Panadería y frutería</strong> — los turistas del norte de Europa especialmente lo valoran</li>
+  <li><strong>Farmacia más cercana</strong> — distancia y horario. Si hay farmacia de guardia en Torrevieja, inclúyela.</li>
+  <li><strong>Centro de salud / urgencias más cercano</strong> — dirección y teléfono</li>
+  <li><strong>Cajero automático</strong> — aunque cada vez se usa menos, todavía hay huéspedes que lo necesitan</li>
+  <li><strong>Estación de bus y paradas principales</strong> — para los que no alquilan coche</li>
+</ul>
+
+<h3>5. Playas y actividades en Torrevieja</h3>
+<p>Aquí es donde tu guía puede brillar de verdad. No te limites a decir «hay playas cerca». Sé específico:</p>
+<ul>
+  <li><strong>Playa La Mata</strong> — ideal para familias con niños, aguas tranquilas, chiringuitos. A 15 minutos en bici.</li>
+  <li><strong>Playa de Los Locos</strong> — más animada, ideal para jóvenes. Servicio de hamacas.</li>
+  <li><strong>Las Salinas de Torrevieja</strong> — espectáculo natural único. Mejor verlo al atardecer. Se puede ir andando desde el centro.</li>
+  <li><strong>Ruta del Molino de la sal</strong> — senderismo fácil, 6 km, vistas increíbles.</li>
+  <li><strong>Golf:</strong> campo de golf a X km, green fee aproximado.</li>
+</ul>
+<p><strong>Añade tus recomendaciones personales</strong>. Esa tasca de tapas que solo conocen los locales, el mercadillo del domingo, el paseo del puerto al amanecer. Este tipo de información personalizada es la que los huéspedes copian literalmente en sus reseñas de 5 estrellas.</p>
+
+<h3>6. Restaurantes y bares recomendados</h3>
+<p>No hagas una lista de 20 restaurantes. Eso es abrumador. Selecciona 5-7 con una pequeña descripción:</p>
+<ul>
+  <li><strong>Nombre del restaurante</strong> — estilo, precio aproximado por persona, especialidad. Dirección o enlace a Google Maps.</li>
+  <li>Distingue por tipo: tapas, mariscos, cocina internacional, buena relación calidad-precio para familias.</li>
+  <li>Si tienes preferencia personal, dilo: «este es nuestro favorito para una cena especial».</li>
+</ul>
+<p><strong>Consejo:</strong> incluso puedes negociar una pequeña comisión o descuento con los restaurantes a cambio de recomendarlos en tu guía. Es una práctica habitual entre los anfitriones profesionales de la zona.</p>
+
+<h3>7. Transporte</h3>
+<p>Especialmente útil para los que llegan en avión sin coche alquilado:</p>
+<ul>
+  <li><strong>Desde el aeropuerto de Alicante-Elche:</strong> autobús línea C6 hasta Torrevieja (precio, frecuencia, dónde bajan), taxi (precio estimado), alquiler de coche.</li>
+  <li><strong>Aparcamiento en Torrevieja:</strong> zonas de aparcamiento gratuito cerca del piso, zonas azules y su precio, parking cubierto más cercano.</li>
+  <li><strong>Bus urbano en Torrevieja:</strong> líneas útiles para llegar al centro o a las playas.</li>
+  <li><strong>Taxi y apps:</strong> Uber no está disponible en Torrevieja. Número de radio-taxi local.</li>
+  <li><strong>Alquiler de bicicletas:</strong> si hay servicio cerca, es un plus muy valorado.</li>
+</ul>
+
+<h3>8. Contacto de emergencia y gestión</h3>
+<p>Termina siempre con una sección clara de a quién llamar y cuándo:</p>
+<ul>
+  <li><strong>Contacto principal (ClaveHogar / gestor local):</strong> nombre, WhatsApp, disponibilidad</li>
+  <li><strong>Emergencias en España:</strong> 112 (emergencias generales), 061 (urgencias médicas), 091 (policía nacional), 092 (policía local Torrevieja)</li>
+  <li><strong>Urgencias médicas locales:</strong> dirección del centro de urgencias más cercano</li>
+  <li><strong>Seguro de viaje:</strong> recuerda al huésped que puede contactar con su seguro de viaje ante cualquier emergencia médica</li>
+</ul>
+
+<h2>Cómo hacer que tu guía funcione para huéspedes internacionales</h2>
+
+<p>En Torrevieja, la mayoría de tus huéspedes en temporada alta serán alemanes, neerlandeses, británicos, belgas o franceses. Una guía solo en español pierde gran parte de su valor. <strong>Tradúcela al menos al inglés, y si puedes también al alemán o al neerlandés, habrás adelantado a la mayoría de tus competidores</strong>.</p>
+
+<p>No necesitas ser políglota. Herramientas como DeepL (mucho mejor que Google Translate para este tipo de textos) te permiten traducir la guía con calidad más que suficiente. Si quieres perfeccionarla, pide a un huésped de confianza de cada idioma que la revise.</p>
+
+<p>Otros ajustes para huéspedes internacionales:</p>
+<ul>
+  <li><strong>Explica el sistema de separación de basuras español</strong> — es diferente al de muchos países y los huéspedes a menudo no saben qué va en cada contenedor</li>
+  <li><strong>Menciona que las tiendas cierran a mediodía</strong> y que los domingos la mayoría están cerradas — esto sorprende mucho a los turistas del norte de Europa</li>
+  <li><strong>Incluye el horario de siesta y ruido</strong> — el descanso entre 14:00 y 17:00 es una costumbre local que los vecinos valoran</li>
+  <li><strong>Da contexto sobre la moneda y los pagos</strong> — en muchos bares de Torrevieja todavía se paga en efectivo</li>
+</ul>
+
+<blockquote>«Un turista alemán que encuentra la guía de bienvenida traducida al alemán siente al instante que el anfitrión pensó en él específicamente. Ese gesto —que le costó al anfitrión 20 minutos en DeepL— vale una estrella en la reseña.»</blockquote>
+
+<h2>El toque final: hazla visual</h2>
+
+<p>Una guía de bienvenida bien redactada pero fea no llega tan lejos como podría. Invierte un poco de tiempo en hacerla visualmente agradable:</p>
+<ul>
+  <li><strong>Usa íconos o emojis</strong> para separar secciones — es más fácil de leer de un vistazo</li>
+  <li><strong>Añade fotos del piso</strong> con las funciones señaladas (el mando del aire, el cuadro eléctrico, la caja de llaves)</li>
+  <li><strong>Incluye un mapa sencillo</strong> con las ubicaciones que mencionas marcadas</li>
+  <li><strong>Usa letra grande</strong> — recuerda que parte de tus huéspedes de invierno son jubilados</li>
+  <li><strong>No abuses del texto corrido</strong> — listas, títulos claros, párrafos cortos</li>
+</ul>
+
+<p>Canva tiene plantillas gratuitas para guías de bienvenida de Airbnb que quedan muy profesionales en unas pocas horas.</p>
+
+<h2>ClaveHogar: te ayudamos con toda la gestión</h2>
+
+<p>En <strong>ClaveHogar</strong> sabemos que crear una buena guía de bienvenida lleva tiempo, y que mantenerla actualizada cuando cambian los restaurantes, los horarios o los servicios locales también requiere atención constante. Por eso, cuando gestionamos de forma integral un piso en Torrevieja, incluimos la preparación y actualización periódica de la guía de bienvenida en nuestro servicio.</p>
+
+<p>Pero nuestra función principal sigue siendo la operativa que hace que el piso brille cuando el huésped llega: limpieza profesional impecable, lavandería con sábanas y toallas perfectas, handyman disponible para cualquier avería, y coordinación del check-in y check-out. <strong>La guía de bienvenida prepara la expectativa; nuestro trabajo la supera</strong>.</p>
+
+<p>¿Quieres que te ayudemos a crear la guía de bienvenida de tu piso en Torrevieja o a gestionar toda la operativa de tu alquiler vacacional? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y lo hablamos sin compromiso.</p>`,
+  },
+  {
     slug: "airbnb-torrevieja-invierno-como-mantener-piso-ocupado",
     title: "Airbnb en Torrevieja en invierno: cómo mantener tu piso ocupado todo el año",
     excerpt: "Torrevieja no vive solo del verano. Descubre cómo rentabilizar tu alquiler vacacional en los meses de temporada baja con estrategias que funcionan.",
