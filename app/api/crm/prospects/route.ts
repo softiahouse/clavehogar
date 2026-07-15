@@ -1,7 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabase } from "@/lib/supabase";
+import { getSupabase } from "@/lib/supabase";
 
 export async function GET() {
+  const supabase = getSupabase();
+  if (!supabase) return NextResponse.json({ error: "Supabase not configured" }, { status: 503 });
+
   const { data, error } = await supabase
     .from("crm_prospects")
     .select("*")
@@ -12,6 +15,9 @@ export async function GET() {
 }
 
 export async function POST(req: NextRequest) {
+  const supabase = getSupabase();
+  if (!supabase) return NextResponse.json({ error: "Supabase not configured" }, { status: 503 });
+
   const body = await req.json();
   const { data, error } = await supabase
     .from("crm_prospects")
@@ -24,6 +30,9 @@ export async function POST(req: NextRequest) {
 }
 
 export async function PATCH(req: NextRequest) {
+  const supabase = getSupabase();
+  if (!supabase) return NextResponse.json({ error: "Supabase not configured" }, { status: 503 });
+
   const { id, ...updates } = await req.json();
   if (!id) return NextResponse.json({ error: "id required" }, { status: 400 });
 
