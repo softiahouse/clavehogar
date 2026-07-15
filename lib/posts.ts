@@ -1174,8 +1174,15 @@ export const posts: Post[] = [
 <p>¿Quieres saber cómo mantener tu piso ocupado este invierno en Torrevieja? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34693976311">+34 693 976 311</a></strong> y te contamos cómo podemos ayudarte a rentabilizar los 365 días del año.</p>
 `
   },
-
-<p>Un piso con una valoración media de 4,9 estrellas puede cobrar entre un 20 % y un 30 % más por noche que uno con 4,5 estrellas en la misma calle. Tiene más reservas, menos cancelaciones, y los huéspedes lo tratan mejor porque pagaron más por él. <strong>Las valoraciones no son un reflejo de tu trabajo: son tu principal activo comercial</strong>.</p>
+  {
+    slug: "resenas-5-estrellas-airbnb-torrevieja",
+    title: "Cómo conseguir reseñas de 5 estrellas en Airbnb en Torrevieja",
+    excerpt: "Un piso con valoración de 4,9 estrellas puede cobrar un 30 % más por noche. Te contamos las 7 estrategias que usan los mejores anfitriones de Torrevieja.",
+    category: "Gestión Vacacional",
+    emoji: "⭐",
+    date: "15 de julio de 2026",
+    readTime: 8,
+    body: `<p>Un piso con una valoración media de 4,9 estrellas puede cobrar entre un 20 % y un 30 % más por noche que uno con 4,5 estrellas en la misma calle. Tiene más reservas, menos cancelaciones, y los huéspedes lo tratan mejor porque pagaron más por él. <strong>Las valoraciones no son un reflejo de tu trabajo: son tu principal activo comercial</strong>.</p>
 
 <p>En esta guía te contamos, punto por punto, cómo los anfitriones mejor valorados de Torrevieja consiguen esas reseñas de 5 estrellas. No es magia: es un sistema.</p>
 
