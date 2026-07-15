@@ -247,7 +247,7 @@ export default function CrmPage() {
                       <span>{new Date(l.created_at).toLocaleDateString("pt-PT", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" })}</span>
                     </div>
                     {l.mensagem && (
-                      <p className="text-xs text-slate-400 mt-1 italic">"{l.mensagem}"</p>
+                      <p className="text-xs text-slate-400 mt-1 italic">&ldquo;{l.mensagem}&rdquo;</p>
                     )}
                   </div>
                   <a

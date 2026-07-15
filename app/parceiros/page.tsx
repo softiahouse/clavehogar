@@ -58,8 +58,8 @@ export default function ParceirosPage() {
         <section className="py-6 px-4 bg-amber-50">
           <div className="max-w-2xl mx-auto">
             <blockquote className="border-l-4 border-amber-400 pl-5 italic text-slate-700 text-base">
-              "Limpieza, check-in, llaves y manitas. ¿Trabajáis con propietarios que necesiten operaciones en terreno?
-              Podemos ser vuestro equipo local. Sin costes, solo comisión por trabajo generado."
+              &ldquo;Limpieza, check-in, llaves y manitas. ¿Trabajáis con propietarios que necesiten operaciones en terreno?
+              Podemos ser vuestro equipo local. Sin costes, solo comisión por trabajo generado.&rdquo;
             </blockquote>
             <p className="text-sm text-slate-500 mt-2 pl-5">— ClaveHogar, Torrevieja</p>
           </div>
