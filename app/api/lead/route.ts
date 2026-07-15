@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
+import { supabase } from "@/lib/supabase";
 
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "softiahouse@gmail.com";
 
@@ -7,6 +8,11 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
     const { nome, email, telefone, servico, mensagem } = body;
+
+    // Guardar no Supabase (não bloqueia se falhar)
+    supabase.from("crm_leads").insert({
+      nome, email, telefone, servico, mensagem,
+    }).then(() => {});
 
     if (!nome || !email || !telefone) {
       return NextResponse.json(
