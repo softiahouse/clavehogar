@@ -19,7 +19,7 @@ export async function POST(req: NextRequest) {
 
     const resend = new Resend(process.env.RESEND_API_KEY);
     const { error } = await resend.emails.send({
-      from: "ClaveHogar Socios <leads@hubchess.com>",
+      from: "ClaveHogar Socios <leads@clavehogar.es>",
       to: [NOTIFY_EMAIL],
       replyTo: email,
       subject: `🤝 Nuevo socio potencial: ${empresa} — ${servicio}`,

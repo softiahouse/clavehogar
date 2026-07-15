@@ -28,7 +28,7 @@ export async function POST(req: NextRequest) {
 
     const resend = new Resend(process.env.RESEND_API_KEY);
     const { error } = await resend.emails.send({
-      from: "ClaveHogar Leads <leads@hubchess.com>",
+      from: "ClaveHogar Leads <leads@clavehogar.es>",
       to: [NOTIFY_EMAIL],
       replyTo: email,
       subject: `🏠 Nuevo lead: ${nome} — ${servico}`,
