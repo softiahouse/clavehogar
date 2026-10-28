@@ -51,8 +51,14 @@ Após o deploy:
 
 ## Contatos no site
 
-- **Gilson**: +34 693 976 311 — https://wa.me/34693976311
-- **Paul**: +34 612 266 321 — https://wa.me/34612266321
+- **Paulo**: +34 612 266 321 — https://wa.me/34612266321
+- O número fica em `lib/contacto.ts` (trocar ali muda o site inteiro).
+
+## Páginas
+
+- `/` — página inicial (proprietários)
+- `/inmobiliarias` — imobiliárias e gestores (antiga `/parceiros`, que redireciona)
+- `/trabaja-con-nosotros` — cadastro privado de colaboradores (tabela `colaboradores`, ver `supabase-schema.sql`)
 
 ## Estrutura
 

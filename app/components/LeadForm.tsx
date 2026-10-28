@@ -3,15 +3,17 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
+import { WA_NOMBRE, WA_TEXTO, waLink } from "@/lib/contacto";
 
 const servicios = [
-  "Limpieza de cambio de huésped",
-  "Gestión integral de Airbnb",
-  "Lavandería y planchado",
-  "Manitas del hogar (Handyman)",
-  "Portes y mudanzas pequeñas",
-  "Recepción y entrega de llaves",
-  "Paquete Propietario Tranquilo",
+  "Mantenimiento y reparaciones",
+  "Jardinería",
+  "Pintura",
+  "Pequeñas obras",
+  "Revisión de la vivienda",
+  "Electricidad o fontanería",
+  "Plan mensual Propietario Tranquilo",
+  "Soy inmobiliaria / gestor",
   "Otro / Consulta general",
 ];
 
@@ -75,8 +77,8 @@ export default function LeadForm() {
             Pide tu presupuesto
           </h2>
           <p className="text-slate-600 text-lg">
-            Rellena el formulario y te respondemos en{" "}
-            <strong className="text-amber-500">menos de 1 hora</strong> por
+            Rellena el formulario y te respondemos{" "}
+            <strong className="text-amber-500">el mismo día</strong> por
             WhatsApp o email.
           </p>
         </motion.div>
@@ -105,7 +107,7 @@ export default function LeadForm() {
                   ¡Solicitud enviada!
                 </h3>
                 <p className="text-slate-600 mb-6">
-                  Hemos recibido tu mensaje. Te contactaremos en menos de 1 hora
+                  Hemos recibido tu mensaje. Te contactaremos el mismo día
                   por WhatsApp o email.
                 </p>
                 <button
@@ -258,20 +260,12 @@ export default function LeadForm() {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
-              href="https://wa.me/34693976311"
+              href={waLink()}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#25D366] text-white px-5 py-2.5 rounded-xl font-semibold text-sm hover:bg-green-500 transition-colors shadow-md"
             >
-              💬 Gilson — +34 693 976 311
-            </a>
-            <a
-              href="https://wa.me/34612266321"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-[#25D366] text-white px-5 py-2.5 rounded-xl font-semibold text-sm hover:bg-green-500 transition-colors shadow-md"
-            >
-              💬 Paul — +34 612 266 321
+              💬 {WA_NOMBRE} — {WA_TEXTO}
             </a>
           </div>
         </motion.div>

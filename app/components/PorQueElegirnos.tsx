@@ -8,17 +8,17 @@ const reasons = [
   {
     icon: "📸",
     title: "Fotos del antes/después",
-    desc: "Cada limpieza documentada con fotos enviadas directamente por WhatsApp. Siempre sabes en qué estado está tu propiedad.",
+    desc: "Cada trabajo documentado con fotos enviadas por WhatsApp. Siempre sabes en qué estado está tu vivienda.",
   },
   {
     icon: "⚡",
-    title: "Respuesta en menos de 1h",
-    desc: "¿Urgencia de último momento? Respondemos rápido. Sabemos que los plazos en el alquiler vacacional son críticos.",
+    title: "Respondemos el mismo día",
+    desc: "¿Urgencia antes de un check-in? Te respondemos el mismo día. Sabemos que en el alquiler vacacional los plazos son críticos.",
   },
   {
     icon: "🏡",
     title: "Equipo local y de confianza",
-    desc: "Somos de Torrevieja. Conocemos la zona, los proveedores y la comunidad. No somos una plataforma, somos vecinos.",
+    desc: "Vivimos en Torrevieja. No somos una plataforma ni un intermediario: somos un equipo de personas que puedes conocer.",
   },
   {
     icon: "💰",
@@ -54,7 +54,7 @@ export default function PorQueElegirnos() {
             Por qué elegirnos
           </h2>
           <p className="text-blue-100 text-lg max-w-2xl mx-auto">
-            Más que un servicio, somos tu socio de confianza en Torrevieja.
+            Más que un servicio, queremos ser tu equipo de confianza en Torrevieja.
           </p>
         </motion.div>
 

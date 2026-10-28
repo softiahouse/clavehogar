@@ -22,7 +22,7 @@ export async function POST(req: NextRequest) {
       from: "ClaveHogar Socios <leads@clavehogar.es>",
       to: [NOTIFY_EMAIL],
       replyTo: email,
-      subject: `🤝 Nuevo socio potencial: ${empresa} — ${servicio}`,
+      subject: `🏢 Inmobiliaria pide visita: ${empresa} — ${servicio}`,
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; background: #f8faff; padding: 32px; border-radius: 16px;">
           <div style="background: linear-gradient(135deg, #f59e0b, #d97706); padding: 24px; border-radius: 12px; margin-bottom: 24px;">
@@ -76,7 +76,7 @@ export async function POST(req: NextRequest) {
           </div>
 
           <p style="color: #999; font-size: 12px; text-align: center; margin-top: 24px;">
-            ClaveHogar • Torrevieja, Alicante • clavehogar.es/parceiros
+            ClaveHogar • Torrevieja, Alicante • clavehogar.es/inmobiliarias
           </p>
         </div>
       `,

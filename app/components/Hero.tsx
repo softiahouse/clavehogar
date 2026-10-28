@@ -44,12 +44,14 @@ export default function Hero() {
           transition={{ duration: 0.7, delay: 0.2 }}
           className="text-4xl sm:text-5xl md:text-6xl font-bold text-slate-800 leading-tight mb-6"
         >
-          Tu hogar en{" "}
+          Mantenimiento de viviendas{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-blue-600">
-            buenas manos.
+            en Torrevieja.
           </span>
           <br />
-          <span className="text-amber-400">Siempre.</span>
+          <span className="text-amber-400 text-3xl sm:text-4xl md:text-5xl">
+            Rápido, con fotos y sin sorpresas.
+          </span>
         </motion.h1>
 
         {/* Subtitle */}
@@ -59,9 +61,9 @@ export default function Hero() {
           transition={{ duration: 0.7, delay: 0.35 }}
           className="text-lg sm:text-xl text-slate-600 max-w-2xl mx-auto mb-10 leading-relaxed"
         >
-          Servicios integrales para propietarios y viajeros en{" "}
-          <strong className="text-slate-700">Torrevieja</strong>. Limpieza,
-          gestión de Airbnb, lavandería, handyman y mucho más.
+          Para propietarios e inmobiliarias de alquiler vacacional.
+          Reparaciones, jardín, pintura y pequeñas obras, con{" "}
+          <strong className="text-slate-700">un solo contacto</strong>.
         </motion.p>
 
         {/* CTA Buttons */}
@@ -75,13 +77,13 @@ export default function Hero() {
             href="#servicios"
             className="px-8 py-4 bg-white/80 backdrop-blur-md text-slate-800 font-semibold rounded-2xl shadow-lg hover:shadow-xl hover:bg-white transition-all border border-white/60 hover:scale-105"
           >
-            Ver Servicios
+            Soy propietario
           </a>
           <a
-            href="#contacto"
+            href="/inmobiliarias"
             className="px-8 py-4 bg-gradient-to-r from-amber-400 to-amber-500 text-white font-semibold rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105 hover:from-amber-500 hover:to-amber-600"
           >
-            Contactar Ahora
+            Soy inmobiliaria o gestor
           </a>
         </motion.div>
 
@@ -90,12 +92,12 @@ export default function Hero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.7, delay: 0.7 }}
-          className="mt-16 flex flex-wrap justify-center gap-6"
+          className="mt-16 flex flex-wrap justify-center gap-4 sm:gap-6"
         >
           {[
-            { icon: "⭐", text: "5 estrellas en Airbnb" },
-            { icon: "⚡", text: "Respuesta en menos de 1h" },
-            { icon: "🏠", text: "Equipo local de confianza" },
+            { icon: "📸", text: "Fotos de cada trabajo por WhatsApp" },
+            { icon: "💶", text: "Presupuesto antes de empezar" },
+            { icon: "🏡", text: "Equipo local" },
           ].map((badge) => (
             <div
               key={badge.text}
@@ -115,7 +117,7 @@ export default function Hero() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1.2, duration: 0.5 }}
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 hidden sm:block"
       >
         <motion.div
           animate={{ y: [0, 8, 0] }}

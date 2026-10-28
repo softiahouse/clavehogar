@@ -3,23 +3,16 @@
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
+import { WA_NOMBRE, WA_TEXTO, waLink } from "@/lib/contacto";
 
 const contacts = [
   {
-    name: "Gilson",
-    phone: "+34 693 976 311",
-    wa: "https://wa.me/34693976311",
-    emoji: "👨‍💼",
-    color: "from-sky-400 to-blue-500",
-    message: "Hola Gilson! Me interesa conocer más sobre vuestros servicios.",
-  },
-  {
-    name: "Paul",
-    phone: "+34 612 266 321",
-    wa: "https://wa.me/34612266321",
+    name: WA_NOMBRE,
+    phone: WA_TEXTO,
+    wa: waLink(),
     emoji: "👨‍🔧",
     color: "from-amber-400 to-orange-500",
-    message: "Hola Paul! Me interesa conocer más sobre vuestros servicios.",
+    message: "Hola Paulo! Me interesa conocer más sobre vuestros servicios.",
   },
 ];
 
@@ -45,12 +38,12 @@ export default function Contacto() {
           </h2>
           <p className="text-slate-600 text-lg">
             Estamos en{" "}
-            <strong className="text-slate-700">Torrevieja</strong> y respondemos
-            rápido
+            <strong className="text-slate-700">Torrevieja</strong>. Un solo
+            contacto para todo
           </p>
         </motion.div>
 
-        <div className="grid sm:grid-cols-2 gap-6 mb-10">
+        <div className="grid max-w-sm mx-auto gap-6 mb-10">
           {contacts.map((c, i) => (
             <motion.div
               key={c.name}
@@ -99,7 +92,7 @@ export default function Contacto() {
           <div className="glass rounded-2xl px-8 py-5 inline-block shadow-md">
             <p className="text-slate-600">
               <span className="text-amber-500 font-semibold">⏱ Respondemos</span>{" "}
-              en menos de 1 hora. También puedes escribirnos y te llamamos nosotros.
+              el mismo día. Escríbenos y, si lo prefieres, te llamamos nosotros.
             </p>
           </div>
         </motion.div>

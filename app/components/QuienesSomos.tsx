@@ -6,19 +6,19 @@ import { useRef } from "react";
 
 const values = [
   {
-    icon: "🤝",
-    title: "Confianza",
-    desc: "Trabajamos con propietarios de toda Europa. Nuestra reputación es nuestra garantía.",
+    icon: "📱",
+    title: "Un solo contacto",
+    desc: "Paulo coordina cada trabajo de principio a fin. No tienes que hablar con cinco personas distintas.",
   },
   {
     icon: "💎",
     title: "Transparencia",
-    desc: "Precios claros, sin sorpresas. Fotos del trabajo enviadas siempre por WhatsApp.",
+    desc: "Presupuesto cerrado antes de empezar y fotos del trabajo terminado por WhatsApp.",
   },
   {
     icon: "⏰",
     title: "Puntualidad",
-    desc: "Llegamos cuando decimos. Tus huéspedes y tú podéis contar con nosotros.",
+    desc: "Llegamos cuando decimos. Sabemos que en el alquiler vacacional cada día cuenta.",
   },
 ];
 
@@ -55,19 +55,18 @@ export default function QuienesSomos() {
                 Quiénes somos
               </span>
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-800 mb-6 leading-tight">
-                Nacidos en Torrevieja,{" "}
-                <span className="text-sky-500">para Torrevieja</span>
+                Una familia trabajando{" "}
+                <span className="text-sky-500">por tu vivienda</span>
               </h2>
               <p className="text-slate-600 leading-relaxed text-lg mb-6">
-                Somos una empresa local en Torrevieja especializada en servicios
-                del hogar para propietarios de apartamentos vacacionales,
-                residentes y expatriados.
+                Somos una familia que se instaló en Torrevieja en 2026. Paulo
+                coordina cada trabajo y es tu único contacto; nuestro equipo se
+                encarga de hacerlo bien.
               </p>
               <p className="text-slate-600 leading-relaxed text-lg">
-                Nacimos de la unión entre experiencia en gestión y conocimiento
-                profundo de la comunidad local. Entendemos lo que significa
-                tener una propiedad lejos de casa y te ayudamos a gestionarla
-                con total tranquilidad.
+                Paulo lleva más de 30 años creando empresas de servicios, entre
+                ellas una de mantenimiento para comunidades de vecinos. Sabemos
+                que tu tranquilidad depende de que aparezcamos cuando decimos.
               </p>
             </FadeIn>
           </div>

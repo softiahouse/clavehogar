@@ -3,43 +3,44 @@
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
+import { waLink } from "@/lib/contacto";
 
 const services = [
   {
-    icon: "🏠",
-    title: "Limpieza de Cambio de Huésped",
-    desc: "Limpieza profesional antes y después de cada estancia. Fotos del resultado enviadas por WhatsApp.",
-    color: "from-blue-50 to-sky-100",
-  },
-  {
-    icon: "📋",
-    title: "Gestión Integral de Alquiler Vacacional",
-    desc: "Gestionamos tu Airbnb de principio a fin: anuncios, huéspedes, precios y coordinación. Tú solo recibes los ingresos.",
-    color: "from-purple-50 to-indigo-100",
-  },
-  {
-    icon: "👕",
-    title: "Servicio de Lavandería y Planchado",
-    desc: "Recogida y entrega de ropa de cama y toallas. Siempre impecable para cada nuevo huésped.",
-    color: "from-green-50 to-emerald-100",
-  },
-  {
     icon: "🔧",
-    title: "Manitas del Hogar (Handyman)",
-    desc: "Pequeñas reparaciones, montaje de muebles, fontanería básica, electricidad menor. Tu marido de alquiler de confianza.",
+    title: "Mantenimiento y reparaciones",
+    desc: "Grifos, puertas, persianas, montaje de muebles y pequeños arreglos.",
     color: "from-orange-50 to-amber-100",
   },
   {
-    icon: "📦",
-    title: "Portes y Mudanzas Pequeñas",
-    desc: "Transporte de muebles, electrodomésticos y cajas. Rápido, cuidadoso y a buen precio en toda la comarca.",
+    icon: "🌿",
+    title: "Jardinería",
+    desc: "Poda, limpieza de jardín y mantenimiento periódico.",
+    color: "from-green-50 to-emerald-100",
+  },
+  {
+    icon: "🎨",
+    title: "Pintura",
+    desc: "Repintado entre temporadas, interiores y exteriores.",
     color: "from-rose-50 to-pink-100",
   },
   {
-    icon: "🗝️",
-    title: "Recepción y Entrega de Llaves",
-    desc: "Check-in y check-out presencial con tus huéspedes. Atención personalizada aunque tú estés lejos.",
+    icon: "🧱",
+    title: "Pequeñas obras",
+    desc: "Albañilería, alicatado y reparaciones de fachada.",
     color: "from-yellow-50 to-amber-100",
+  },
+  {
+    icon: "🔍",
+    title: "Revisión de la vivienda",
+    desc: "Visita entre temporadas con informe y fotos, para detectar problemas antes que tus huéspedes.",
+    color: "from-blue-50 to-sky-100",
+  },
+  {
+    icon: "⚡",
+    title: "Electricidad y fontanería",
+    desc: "Con profesionales colaboradores de confianza, coordinados por nosotros.",
+    color: "from-purple-50 to-indigo-100",
   },
 ];
 
@@ -73,12 +74,12 @@ function ServiceCard({
         <p className="text-slate-600 text-sm leading-relaxed">{service.desc}</p>
         <div className="mt-5">
           <a
-            href="https://wa.me/34693976311"
+            href={waLink(`Hola Paulo! Quería pedir presupuesto: ${service.title}`)}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm font-semibold text-amber-500 hover:text-amber-600 flex items-center gap-1 group/link"
           >
-            Consultar precio
+            Pedir presupuesto
             <svg
               className="w-4 h-4 group-hover/link:translate-x-1 transition-transform"
               fill="none"
@@ -120,8 +121,8 @@ export default function Servicios() {
             Todo lo que necesita tu propiedad
           </h2>
           <p className="text-slate-600 text-lg max-w-2xl mx-auto">
-            Un equipo completo a tu disposición en Torrevieja. Desde la limpieza
-            hasta la gestión total de tu Airbnb.
+            Un equipo a tu disposición en Torrevieja y alrededores. Te damos
+            presupuesto cerrado antes de empezar.
           </p>
         </motion.div>
 

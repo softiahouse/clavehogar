@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { waLink } from "@/lib/contacto";
 
 const SERVICIOS = [
   "Gestión Airbnb / Vacacional",
@@ -48,10 +49,10 @@ export default function PartnersForm() {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
           </svg>
         </div>
-        <h3 className="text-xl font-bold text-slate-800 mb-2">¡Solicitud recibida!</h3>
-        <p className="text-slate-500 mb-6">Nos pondremos en contacto contigo en menos de 24 horas.</p>
+        <h3 className="text-xl font-bold text-slate-800 mb-2">¡Gracias! Hemos recibido tu solicitud.</h3>
+        <p className="text-slate-500 mb-6">Paulo te contactará para acordar una visita sin compromiso.</p>
         <a
-          href="https://wa.me/34693976311?text=Hola!%20Acabo%20de%20enviar%20una%20solicitud%20de%20partnership%20en%20vuestra%20web."
+          href={waLink("Hola Paulo! Acabo de pedir una visita en vuestra web.")}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-xl transition-all"
@@ -133,7 +134,7 @@ export default function PartnersForm() {
           </select>
         </div>
         <div>
-          <label className="block text-sm font-medium text-slate-700 mb-1.5">Propiedades gestionadas</label>
+          <label className="block text-sm font-medium text-slate-700 mb-1.5">Inmuebles que gestionas</label>
           <input
             name="propiedades"
             value={form.propiedades}
@@ -151,7 +152,7 @@ export default function PartnersForm() {
           value={form.mensaje}
           onChange={handle}
           rows={3}
-          placeholder="Cuéntanos qué servicios necesitarías o cómo podemos colaborar..."
+          placeholder="Zona de tus inmuebles, tipo de trabajos que necesitas, urgencias habituales..."
           className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-amber-300 transition resize-none"
         />
       </div>
@@ -165,7 +166,7 @@ export default function PartnersForm() {
         disabled={status === "loading"}
         className="w-full bg-amber-400 hover:bg-amber-500 disabled:opacity-60 text-white font-semibold py-3.5 rounded-xl transition-all shadow-md hover:shadow-lg text-sm"
       >
-        {status === "loading" ? "Enviando..." : "Solicitar Partnership →"}
+        {status === "loading" ? "Enviando..." : "Pedir una visita sin compromiso →"}
       </button>
     </form>
   );

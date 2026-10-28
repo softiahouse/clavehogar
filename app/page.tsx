@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import QuienesSomos from "./components/QuienesSomos";
 import Servicios from "./components/Servicios";
 import Paquetes from "./components/Paquetes";
-import Testimonios from "./components/Testimonios";
+import WebAsistente from "./components/WebAsistente";
 import LeadForm from "./components/LeadForm";
 import PorQueElegirnos from "./components/PorQueElegirnos";
 import Contacto from "./components/Contacto";
@@ -20,9 +20,9 @@ export default function Home() {
         <QuienesSomos />
         <Servicios />
         <Paquetes />
-        <Testimonios />
         <LeadForm />
         <PorQueElegirnos />
+        <WebAsistente />
         <Contacto />
       </main>
       <Footer />

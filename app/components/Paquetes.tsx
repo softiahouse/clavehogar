@@ -3,49 +3,54 @@
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
+import { waLink } from "@/lib/contacto";
 
 const packages = [
   {
-    name: "Básico",
+    name: "Por trabajo",
     badge: null,
-    icon: "✨",
-    tagline: "Para empezar",
+    icon: "🛠️",
+    tagline: "Cuando lo necesites",
     services: [
-      "Limpieza de cambio de huésped",
-      "Servicio de lavandería",
-      "Fotos enviadas por WhatsApp",
-      "Coordinación de entrada/salida",
+      "Presupuesto cerrado antes de empezar",
+      "Reparaciones, pintura, jardín y pequeñas obras",
+      "Fotos del trabajo terminado por WhatsApp",
+      "Sin compromiso ni permanencia",
     ],
     highlight: false,
+    href: "Hola Paulo! Quería pedir presupuesto para un trabajo.",
+    cta: "💬 Pedir presupuesto",
   },
   {
     name: "Propietario Tranquilo",
-    badge: "⭐ Más Popular",
+    badge: "Plan mensual",
     icon: "🏆",
-    tagline: "Gestión completa sin preocupaciones",
+    tagline: "Tu vivienda siempre a punto",
     services: [
-      "Gestión completa de Airbnb",
-      "Limpieza de cambio de huésped",
-      "Servicio de lavandería",
-      "Check-in y check-out presencial",
-      "Soporte 7 días a la semana",
-      "Fotos y reportes por WhatsApp",
+      "Revisión mensual de la vivienda",
+      "Informe con fotos por WhatsApp",
+      "Mantenimiento del jardín",
+      "Pequeñas reparaciones incluidas",
+      "Prioridad en urgencias",
     ],
     highlight: true,
+    href: "Hola Paulo! Me interesa el plan Propietario Tranquilo.",
+    cta: "💬 Consultar precio",
   },
   {
-    name: "Hogar Plus",
+    name: "Inmobiliarias",
     badge: null,
-    icon: "💎",
-    tagline: "Cobertura total mensual",
+    icon: "🏢",
+    tagline: "Para carteras de varios inmuebles",
     services: [
-      "Todo del plan Propietario Tranquilo",
-      "Servicio de Manitas incluido",
-      "Pequeñas reparaciones sin coste extra",
-      "Prioridad en urgencias",
-      "Revisión mensual del inmueble",
+      "Un solo contacto para todos tus inmuebles",
+      "Urgencias antes del próximo check-in",
+      "Una sola factura mensual",
+      "Precio por inmueble según tu cartera",
     ],
     highlight: false,
+    href: null,
+    cta: "Ver más →",
   },
 ];
 
@@ -64,14 +69,14 @@ export default function Paquetes() {
           className="text-center mb-16"
         >
           <span className="inline-block text-sm font-semibold text-amber-500 uppercase tracking-widest mb-3">
-            Paquetes y Precios
+            Planes
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold text-slate-800 mb-4">
-            Elige tu plan ideal
+            Elige cómo trabajamos juntos
           </h2>
           <p className="text-slate-600 text-lg max-w-2xl mx-auto">
-            Precios adaptados a cada propietario. Contáctanos y te hacemos un
-            presupuesto personalizado sin compromiso.
+            El precio depende de la vivienda. Te hacemos un presupuesto
+            personalizado sin compromiso.
           </p>
         </motion.div>
 
@@ -136,16 +141,15 @@ export default function Paquetes() {
               </ul>
 
               <a
-                href="https://wa.me/34693976311?text=Hola!%20Me%20interesa%20el%20paquete"
-                target="_blank"
-                rel="noopener noreferrer"
+                href={pkg.href ? waLink(pkg.href) : "/inmobiliarias"}
+                {...(pkg.href ? { target: "_blank", rel: "noopener noreferrer" } : {})}
                 className={`w-full py-3.5 rounded-2xl font-semibold text-center transition-all shadow-md hover:shadow-lg hover:scale-[1.02] ${
                   pkg.highlight
                     ? "bg-white text-blue-600 hover:bg-blue-50"
                     : "bg-amber-400 hover:bg-amber-500 text-white"
                 }`}
               >
-                💬 Consultar precio
+                {pkg.cta}
               </a>
             </motion.div>
           ))}

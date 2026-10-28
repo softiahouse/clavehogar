@@ -7,16 +7,16 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   manifest: "/manifest.json",
-  title: "ClaveHogar | Servicios del Hogar en Torrevieja",
+  title: "ClaveHogar | Mantenimiento de viviendas en Torrevieja",
   description:
-    "Servicios integrales para propietarios y viajeros en Torrevieja. Limpieza, gestión de alquiler vacacional, lavandería, handyman y más.",
+    "Mantenimiento de viviendas en Torrevieja para propietarios e inmobiliarias de alquiler vacacional: reparaciones, jardín, pintura y pequeñas obras, con fotos de cada trabajo.",
   keywords:
-    "Torrevieja, limpieza apartamentos, gestión Airbnb, handyman, alquiler vacacional, Alicante, Costa Blanca, mantenimiento hogar, lavandería, check-in check-out",
+    "Torrevieja, mantenimiento viviendas, manitas, handyman, jardinería, pintura, reformas pequeñas, alquiler vacacional, inmobiliarias, Alicante, Costa Blanca",
   authors: [{ name: "ClaveHogar" }],
   openGraph: {
-    title: "ClaveHogar | Servicios del Hogar en Torrevieja",
+    title: "ClaveHogar | Mantenimiento de viviendas en Torrevieja",
     description:
-      "Tu hogar en buenas manos. Siempre. Servicios integrales para propietarios en Torrevieja.",
+      "Mantenimiento de viviendas en Torrevieja. Rápido, con fotos y sin sorpresas.",
     url: "https://clavehogar.es",
     siteName: "ClaveHogar",
     locale: "es_ES",
@@ -59,21 +59,14 @@ export default function RootLayout({
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "ClaveHogar",
-          "description": "Servicios integrales para propietarios en Torrevieja: limpieza profesional, gestión de Airbnb, lavandería, handyman y check-in/check-out.",
+          "description": "Mantenimiento de viviendas en Torrevieja para propietarios e inmobiliarias: reparaciones, jardinería, pintura y pequeñas obras.",
           "url": "https://clavehogar.es",
-          "telephone": "+34693976311",
+          "telephone": "+34612266321",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Calle Las Tórtolas, Urbanización Sunlake, Casa 54",
             "addressLocality": "Torrevieja",
             "addressRegion": "Alicante",
-            "postalCode": "03184",
             "addressCountry": "ES"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 37.9838,
-            "longitude": -0.6830
           },
           "openingHoursSpecification": [
             {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "08:00", "closes": "20:00"},
@@ -82,7 +75,7 @@ export default function RootLayout({
           "sameAs": ["https://www.instagram.com/clavehogar"],
           "priceRange": "€€",
           "areaServed": "Torrevieja, Alicante, Costa Blanca",
-          "serviceType": ["Limpieza de apartamentos", "Gestión Airbnb", "Lavandería", "Handyman", "Check-in Check-out"]
+          "serviceType": ["Mantenimiento de viviendas", "Reparaciones", "Jardinería", "Pintura", "Pequeñas obras"]
         })}} />
       </head>
       <body className={inter.className}>{children}</body>

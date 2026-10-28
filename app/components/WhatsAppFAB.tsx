@@ -2,13 +2,13 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { WA_NOMBRE, waLink } from "@/lib/contacto";
 
 export default function WhatsAppFAB() {
   const [open, setOpen] = useState(false);
 
   const contacts = [
-    { name: "Gilson", wa: "https://wa.me/34693976311" },
-    { name: "Paul", wa: "https://wa.me/34612266321" },
+    { name: WA_NOMBRE, wa: waLink() },
   ];
 
   return (

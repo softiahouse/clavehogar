@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { waLink } from "@/lib/contacto";
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -13,12 +14,12 @@ export default function Navbar() {
   }, []);
 
   const links = [
-    { href: "#servicios", label: "Servicios" },
-    { href: "#paquetes", label: "Paquetes" },
-    { href: "#testimonios", label: "Opiniones" },
-    { href: "#contacto", label: "Contacto" },
+    { href: "/#servicios", label: "Servicios" },
+    { href: "/#paquetes", label: "Planes" },
+    { href: "/inmobiliarias", label: "Inmobiliarias" },
+    { href: "/trabaja-con-nosotros", label: "Trabaja con nosotros" },
     { href: "/blog", label: "Blog" },
-    { href: "/parceiros", label: "Socios" },
+    { href: "/#contacto", label: "Contacto" },
   ];
 
   return (
@@ -32,7 +33,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-2 group">
+          <a href="/" className="flex items-center gap-2 group">
             <div className="w-9 h-9 bg-gradient-to-br from-amber-400 to-amber-500 rounded-xl flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
               <span className="text-white text-lg">🗝️</span>
             </div>
@@ -42,7 +43,7 @@ export default function Navbar() {
           </a>
 
           {/* Desktop links */}
-          <div className="hidden md:flex items-center gap-8">
+          <div className="hidden lg:flex items-center gap-6">
             {links.map((l) => (
               <a
                 key={l.href}
@@ -53,7 +54,7 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="https://wa.me/34693976311"
+              href={waLink()}
               target="_blank"
               rel="noopener noreferrer"
               className="bg-amber-400 hover:bg-amber-500 text-white text-sm font-semibold px-5 py-2 rounded-full transition-all shadow-md hover:shadow-lg hover:scale-105"
@@ -64,7 +65,7 @@ export default function Navbar() {
 
           {/* Mobile hamburger */}
           <button
-            className="md:hidden p-2 rounded-lg text-slate-600"
+            className="lg:hidden p-2 rounded-lg text-slate-600"
             onClick={() => setMenuOpen(!menuOpen)}
             aria-label="Menú"
           >
@@ -82,7 +83,7 @@ export default function Navbar() {
 
         {/* Mobile menu */}
         {menuOpen && (
-          <div className="md:hidden bg-white/95 backdrop-blur-xl rounded-2xl mb-4 p-4 shadow-xl border border-white/60">
+          <div className="lg:hidden bg-white/95 backdrop-blur-xl rounded-2xl mb-4 p-4 shadow-xl border border-white/60">
             {links.map((l) => (
               <a
                 key={l.href}
@@ -94,7 +95,7 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="https://wa.me/34693976311"
+              href={waLink()}
               target="_blank"
               rel="noopener noreferrer"
               className="mt-3 flex items-center justify-center bg-amber-400 hover:bg-amber-500 text-white font-semibold py-3 rounded-xl transition-all"
