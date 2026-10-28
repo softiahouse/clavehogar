@@ -28,11 +28,11 @@ interface Lead {
 
 // ── Stages ─────────────────────────────────────────────────────────
 const STAGES: { key: Stage; label: string; color: string; bg: string }[] = [
-  { key: "new",       label: "Novo",        color: "#8b8bff", bg: "#8b8bff20" },
+  { key: "new",       label: "Nuevo",       color: "#8b8bff", bg: "#8b8bff20" },
   { key: "contacted", label: "Contactado",  color: "#facc15", bg: "#facc1520" },
-  { key: "meeting",   label: "Reunião",     color: "#60a5fa", bg: "#60a5fa20" },
-  { key: "proposal",  label: "Proposta",    color: "#f97316", bg: "#f9731620" },
-  { key: "won",       label: "Fechado ✓",  color: "#4ade80", bg: "#4ade8020" },
+  { key: "meeting",   label: "Reunión",     color: "#60a5fa", bg: "#60a5fa20" },
+  { key: "proposal",  label: "Propuesta",   color: "#f97316", bg: "#f9731620" },
+  { key: "won",       label: "Cerrado ✓",  color: "#4ade80", bg: "#4ade8020" },
   { key: "lost",      label: "Perdido",     color: "#f87171", bg: "#f8717120" },
 ];
 
@@ -110,20 +110,20 @@ export default function CrmPage() {
           <div className="w-9 h-9 bg-amber-400 rounded-xl flex items-center justify-center text-lg">🗝️</div>
           <div>
             <h1 className="font-bold text-white leading-none">ClaveHogar CRM</h1>
-            <p className="text-xs text-slate-400">Prospecção & Leads</p>
+            <p className="text-xs text-slate-400">Prospección y leads</p>
           </div>
         </div>
         <div className="flex items-center gap-3">
           <a href="/" className="text-xs text-slate-400 hover:text-white transition">← Site</a>
-          <button onClick={logout} className="text-xs text-slate-500 hover:text-white transition">Sair</button>
+          <button onClick={logout} className="text-xs text-slate-500 hover:text-white transition">Salir</button>
         </div>
       </div>
 
       {/* Tabs */}
       <div className="px-6 pt-5 flex items-center gap-1 border-b border-slate-800">
         {[
-          { key: "pipeline", label: "🏢 Agências" },
-          { key: "leads",    label: "📥 Leads do Site" },
+          { key: "pipeline", label: "🏢 Inmobiliarias" },
+          { key: "leads",    label: "📥 Solicitudes de la web" },
         ].map((t) => (
           <button
             key={t.key}
@@ -143,7 +143,7 @@ export default function CrmPage() {
             onClick={() => setShowAdd(true)}
             className="ml-auto mb-1 bg-amber-400 hover:bg-amber-500 text-white text-xs font-semibold px-4 py-2 rounded-lg transition"
           >
-            + Adicionar agência
+            + Añadir inmobiliaria
           </button>
         )}
       </div>
@@ -154,12 +154,12 @@ export default function CrmPage() {
           {prospects.length === 0 ? (
             <div className="text-center py-20 text-slate-500">
               <p className="text-4xl mb-3">🏢</p>
-              <p className="text-sm">Nenhuma agência ainda.</p>
+              <p className="text-sm">Todavía no hay inmobiliarias.</p>
               <button
                 onClick={() => setShowAdd(true)}
                 className="mt-4 bg-amber-400 hover:bg-amber-500 text-white text-xs font-semibold px-5 py-2.5 rounded-lg transition"
               >
-                Adicionar a primeira agência
+                Añadir la primera inmobiliaria
               </button>
             </div>
           ) : (
@@ -227,7 +227,7 @@ export default function CrmPage() {
           {leads.length === 0 ? (
             <div className="text-center py-20 text-slate-500">
               <p className="text-4xl mb-3">📥</p>
-              <p className="text-sm">Nenhum lead ainda. Quando alguém preencher o formulário do site, aparece aqui.</p>
+              <p className="text-sm">Todavía no hay solicitudes. Cuando alguien rellene el formulario de la web, aparecerá aquí.</p>
             </div>
           ) : (
             <div className="space-y-3">
@@ -244,7 +244,7 @@ export default function CrmPage() {
                     <div className="flex items-center gap-4 mt-1 text-xs text-slate-400 flex-wrap">
                       <span>{l.email}</span>
                       <span>{l.telefone}</span>
-                      <span>{new Date(l.created_at).toLocaleDateString("pt-PT", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" })}</span>
+                      <span>{new Date(l.created_at).toLocaleDateString("es-ES", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" })}</span>
                     </div>
                     {l.mensagem && (
                       <p className="text-xs text-slate-400 mt-1 italic">&ldquo;{l.mensagem}&rdquo;</p>
@@ -272,24 +272,24 @@ export default function CrmPage() {
       {showAdd && (
         <div className="fixed inset-0 bg-black/70 z-50 flex items-center justify-center px-4" onClick={() => setShowAdd(false)}>
           <div className="bg-slate-800 border border-slate-700 rounded-2xl p-6 w-full max-w-sm" onClick={(e) => e.stopPropagation()}>
-            <h3 className="font-bold text-white mb-4">Adicionar Agência</h3>
+            <h3 className="font-bold text-white mb-4">Añadir inmobiliaria</h3>
             <div className="space-y-3">
               <input
                 value={newName}
                 onChange={(e) => setNewName(e.target.value)}
-                placeholder="Nome da agência *"
+                placeholder="Nombre de la inmobiliaria *"
                 className="w-full bg-slate-700 border border-slate-600 text-white rounded-xl px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
               />
               <input
                 value={newPhone}
                 onChange={(e) => setNewPhone(e.target.value)}
-                placeholder="Telefone / WhatsApp"
+                placeholder="Teléfono / WhatsApp"
                 className="w-full bg-slate-700 border border-slate-600 text-white rounded-xl px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
               />
               <input
                 value={newType}
                 onChange={(e) => setNewType(e.target.value)}
-                placeholder="Tipo (ex: Gestão Airbnb, Imobiliária)"
+                placeholder="Tipo (ej.: gestión vacacional, inmobiliaria)"
                 className="w-full bg-slate-700 border border-slate-600 text-white rounded-xl px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
               />
             </div>
@@ -298,7 +298,7 @@ export default function CrmPage() {
                 Cancelar
               </button>
               <button onClick={addProspect} disabled={!newName.trim() || saving} className="flex-1 bg-amber-400 hover:bg-amber-500 disabled:opacity-50 text-white text-sm font-semibold py-2.5 rounded-xl transition">
-                {saving ? "Guardando..." : "Adicionar"}
+                {saving ? "Guardando..." : "Añadir"}
               </button>
             </div>
           </div>

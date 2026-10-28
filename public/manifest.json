@@ -1,7 +1,7 @@
 {
-  "name": "ClaveHogar — Servicios del Hogar",
+  "name": "ClaveHogar — Mantenimiento de viviendas",
   "short_name": "ClaveHogar",
-  "description": "Limpieza, check-in, handyman y gestión Airbnb en Torrevieja",
+  "description": "Mantenimiento de viviendas en Torrevieja: reparaciones, jardín, pintura y pequeñas obras",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

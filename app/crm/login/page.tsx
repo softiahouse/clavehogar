@@ -20,7 +20,7 @@ export default function CrmLogin() {
     if (res.ok) {
       router.push("/crm");
     } else {
-      setError("Senha incorreta");
+      setError("Contraseña incorrecta");
     }
     setLoading(false);
   }
@@ -33,11 +33,11 @@ export default function CrmLogin() {
             🗝️
           </div>
           <h1 className="text-xl font-bold text-white">ClaveHogar CRM</h1>
-          <p className="text-slate-400 text-sm mt-1">Área restrita à equipa</p>
+          <p className="text-slate-400 text-sm mt-1">Área reservada al equipo</p>
         </div>
 
         <form onSubmit={login} className="bg-slate-800 rounded-2xl p-6 border border-slate-700">
-          <label className="block text-sm font-medium text-slate-300 mb-2">Senha</label>
+          <label className="block text-sm font-medium text-slate-300 mb-2">Contraseña</label>
           <input
             type="password"
             value={password}
