@@ -51,7 +51,7 @@ Após o deploy:
 
 ## Contatos no site
 
-- **Paulo**: +34 612 266 321 — https://wa.me/34612266321
+- **Paulo**: +34 602 427 508 — https://wa.me/34602427508
 - O número fica em `lib/contacto.ts` (trocar ali muda o site inteiro).
 
 ## Páginas

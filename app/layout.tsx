@@ -61,7 +61,7 @@ export default function RootLayout({
           "name": "ClaveHogar",
           "description": "Mantenimiento de viviendas en Torrevieja para propietarios e inmobiliarias: reparaciones, jardinería, pintura y pequeñas obras.",
           "url": "https://clavehogar.es",
-          "telephone": "+34612266321",
+          "telephone": "+34602427508",
           "address": {
             "@type": "PostalAddress",
             "addressLocality": "Torrevieja",

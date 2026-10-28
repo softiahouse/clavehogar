@@ -1,6 +1,6 @@
 // Contato único da ClaveHogar — trocar aqui muda o site inteiro.
-export const WA_NUMERO = "34612266321";
-export const WA_TEXTO = "+34 612 266 321";
+export const WA_NUMERO = "34602427508";
+export const WA_TEXTO = "+34 602 427 508";
 export const WA_NOMBRE = "Paulo";
 
 export function waLink(mensaje?: string) {

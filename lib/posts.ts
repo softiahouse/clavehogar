@@ -102,7 +102,7 @@ export const posts: Post[] = [
 
 <p>Ofrecemos un servicio integral que cubre limpieza profesional entre huéspedes, lavandería, handyman, coordinación de check-in/check-out y gestión de incidencias. Sin contratos largos, sin sorpresas. Solo trabajo bien hecho para que tu piso funcione sin que tengas que estar pendiente.</p>
 
-<p>¿Tienes un piso en Torrevieja y vives fuera de España? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321"><strong>+34 612 266 321</strong></a></strong> y te contamos cómo podemos ayudarte a gestionarlo sin estrés, estés donde estés.</p>`,
+<p>¿Tienes un piso en Torrevieja y vives fuera de España? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508"><strong>+34 602 427 508</strong></a></strong> y te contamos cómo podemos ayudarte a gestionarlo sin estrés, estés donde estés.</p>`,
   },
   {
     slug: "gestionar-airbnb-torrevieja",
@@ -177,7 +177,7 @@ export const posts: Post[] = [
 
 <p>Sin contratos largos, sin letra pequeña. Solo soluciones reales para propietarios reales.</p>
 
-<p><strong>¿Tienes un piso en Torrevieja y quieres saber cómo podemos ayudarte?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34612266321"><strong>+34 612 266 321</strong></a> y te explicamos sin compromiso qué podemos hacer por ti.</p>`,
+<p><strong>¿Tienes un piso en Torrevieja y quieres saber cómo podemos ayudarte?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34602427508"><strong>+34 602 427 508</strong></a> y te explicamos sin compromiso qué podemos hacer por ti.</p>`,
   },
   {
     slug: "limpieza-profesional-entre-huespedes-torrevieja",
@@ -262,7 +262,7 @@ export const posts: Post[] = [
 
 <p>Además, coordinamos la limpieza con el resto de servicios: lavandería, handyman y check-in, para que tú no tengas que preocuparte de nada. <strong>Tu piso funciona, tú descansas</strong>.</p>
 
-<p>¿Quieres probar? <strong>Escríbenos por WhatsApp al <a href="https://wa.me/34612266321"><strong>+34 612 266 321</strong></a></strong> y te hacemos un presupuesto sin compromiso para tu piso en Torrevieja.</p>`,
+<p>¿Quieres probar? <strong>Escríbenos por WhatsApp al <a href="https://wa.me/34602427508"><strong>+34 602 427 508</strong></a></strong> y te hacemos un presupuesto sin compromiso para tu piso en Torrevieja.</p>`,
   },
   {
     slug: "mantenimiento-preventivo-hogar-torrevieja",
@@ -374,7 +374,7 @@ export const posts: Post[] = [
 
 <p>Trabajamos con propietarios que viven en Torrevieja y también con los que gestionan sus pisos desde el extranjero. <strong>Tú no tienes que estar aquí para que tu piso esté cuidado.</strong></p>
 
-<p>¿Quieres saber más? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y te contamos cómo funciona nuestro servicio de mantenimiento preventivo sin compromiso.</p>`
+<p>¿Quieres saber más? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y te contamos cómo funciona nuestro servicio de mantenimiento preventivo sin compromiso.</p>`
   },
   {
     slug: "lavanderia-apartamentos-vacacionales-torrevieja",
@@ -505,7 +505,7 @@ export const posts: Post[] = [
 
 <p>Además, si contratas nuestro servicio integral (limpieza + lavandería + handyman + check-in/check-out), la coordinación es automática. <strong>Nosotros nos encargamos de que todo esté listo para cada huésped, tú solo te preocupas de disfrutar de la rentabilidad.</strong></p>
 
-<p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y te contamos cómo podemos ayudarte con la lavandería de tu piso en Torrevieja.</p>`
+<p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y te contamos cómo podemos ayudarte con la lavandería de tu piso en Torrevieja.</p>`
   },
   {
     slug: "que-hacer-cuando-algo-se-rompe-piso-alquiler-torrevieja",
@@ -624,7 +624,7 @@ export const posts: Post[] = [
 
 <p>También te asesoramos sobre el seguro de hogar más adecuado para tu piso vacacional y te ayudamos a montar ese plan de emergencia del que hablamos en este artículo. <strong>Porque tener un plan B no es pesimismo: es profesionalidad</strong>.</p>
 
-<p>¿Quieres saber cómo funciona nuestro servicio de handyman? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y te contamos cómo podemos ayudarte a dormir tranquilo, incluso cuando algo se rompe.</p>`,
+<p>¿Quieres saber cómo funciona nuestro servicio de handyman? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y te contamos cómo podemos ayudarte a dormir tranquilo, incluso cuando algo se rompe.</p>`,
   },
   {
     slug: "check-in-check-out-airbnb-torrevieja",
@@ -730,7 +730,7 @@ export const posts: Post[] = [
 
 <p>Además, si contratas nuestro servicio integral (limpieza + lavandería + handyman + check-in/check-out), la coordinación entre todos los servicios es automática. Tú solo te preocupas de una cosa: de ver cómo llegan las reservas y las buenas reseñas.</p>
 
-<p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y te contamos cómo podemos ayudarte a que tus huéspedes empiecen y terminen su estancia con una sonrisa.</p>`,
+<p>¿Quieres saber cómo funciona? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y te contamos cómo podemos ayudarte a que tus huéspedes empiecen y terminen su estancia con una sonrisa.</p>`,
   },
   {
     slug: "mejorar-valoraciones-airbnb-torrevieja",
@@ -851,7 +851,7 @@ export const posts: Post[] = [
 
 <p>Nuestro servicio integral cubre limpieza profesional entre huéspedes, lavandería, handyman, check-in y check-out, y gestión de incidencias. Todo coordinado para que tu piso funcione al nivel de los mejores anfitriones de Torrevieja, sin que tengas que estar encima.</p>
 
-<p><strong>¿Quieres mejorar tus valoraciones?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a> y te contamos cómo podemos ayudarte a llegar a las 5 estrellas.</p>`
+<p><strong>¿Quieres mejorar tus valoraciones?</strong> Escríbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a> y te contamos cómo podemos ayudarte a llegar a las 5 estrellas.</p>`
   },
   {
     slug: "guia-bienvenida-huespedes-torrevieja",
@@ -896,7 +896,7 @@ export const posts: Post[] = [
 
 <h3>1. Bienvenida personal</h3>
 <p>No empieces con instrucciones técnicas. Empieza con una bienvenida cálida y breve. Una o dos frases que hagan sentir al huésped que fue esperado:</p>
-<p><em>«Bienvenido a nuestro apartamento en Torrevieja. Esperamos que disfrutes de la Costa Blanca tanto como nosotros. Cualquier cosa que necesites, estamos a un WhatsApp de distancia: +34 612 266 321.»</em></p>
+<p><em>«Bienvenido a nuestro apartamento en Torrevieja. Esperamos que disfrutes de la Costa Blanca tanto como nosotros. Cualquier cosa que necesites, estamos a un WhatsApp de distancia: +34 602 427 508.»</em></p>
 <p>Parece obvio, pero muchos propietarios se saltan esta parte y empiezan directamente con el número de la caja de fusibles. <strong>El tono humano de la guía determina el tono de toda la estancia</strong>.</p>
 
 <h3>2. Información esencial del apartamento</h3>
@@ -1009,7 +1009,7 @@ export const posts: Post[] = [
 
 <p>Pero nuestra función principal sigue siendo la operativa que hace que el piso brille cuando el huésped llega: limpieza profesional impecable, lavandería con sábanas y toallas perfectas, handyman disponible para cualquier avería, y coordinación del check-in y check-out. <strong>La guía de bienvenida prepara la expectativa; nuestro trabajo la supera</strong>.</p>
 
-<p>¿Quieres que te ayudemos a crear la guía de bienvenida de tu piso en Torrevieja o a gestionar toda la operativa de tu alquiler vacacional? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y lo hablamos sin compromiso.</p>`,
+<p>¿Quieres que te ayudemos a crear la guía de bienvenida de tu piso en Torrevieja o a gestionar toda la operativa de tu alquiler vacacional? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y lo hablamos sin compromiso.</p>`,
   },
   {
     slug: "airbnb-torrevieja-invierno-como-mantener-piso-ocupado",
@@ -1171,7 +1171,7 @@ export const posts: Post[] = [
   <li><strong>Coordinación de check-in y check-out</strong> para huéspedes de larga estancia, que suelen llegar con horarios más flexibles pero necesitan una atención más personalizada</li>
 </ul>
 
-<p>¿Quieres saber cómo mantener tu piso ocupado este invierno en Torrevieja? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y te contamos cómo podemos ayudarte a rentabilizar los 365 días del año.</p>
+<p>¿Quieres saber cómo mantener tu piso ocupado este invierno en Torrevieja? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y te contamos cómo podemos ayudarte a rentabilizar los 365 días del año.</p>
 `
   },
   {
@@ -1290,7 +1290,7 @@ export const posts: Post[] = [
 
 <p>No gestionamos tu anuncio de Airbnb. Gestionamos todo lo que ocurre <em>detrás</em> del anuncio: el trabajo invisible que convierte un piso normal en una experiencia de 5 estrellas.</p>
 
-<p>¿Quieres saber cómo podemos ayudarte a mejorar tus valoraciones? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34612266321">+34 612 266 321</a></strong> y te contamos sin compromiso cómo funciona nuestro servicio para anfitriones en Torrevieja.</p>`,
+<p>¿Quieres saber cómo podemos ayudarte a mejorar tus valoraciones? <strong>Escíbenos por WhatsApp al <a href="https://wa.me/34602427508">+34 602 427 508</a></strong> y te contamos sin compromiso cómo funciona nuestro servicio para anfitriones en Torrevieja.</p>`,
   },
 ];
 

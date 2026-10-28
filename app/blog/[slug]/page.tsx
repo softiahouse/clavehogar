@@ -84,7 +84,7 @@ export default function PostPage({ params }: { params: { slug: string } }) {
             Limpieza, gestión de Airbnb, mantenimiento — lo hacemos todo.
           </p>
           <a
-            href="https://wa.me/34612266321"
+            href="https://wa.me/34602427508"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-white font-semibold px-7 py-3 rounded-full transition-all shadow-lg hover:shadow-xl hover:scale-105"
